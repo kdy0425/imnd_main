@@ -154,7 +154,8 @@ nav.addEventListener('mouseleave', function () {
 
 //퀵메뉴 토글
 function quickToggle(button){
-    slideToggle(document.querySelector('.quick_toggle_content_pc'), 600);
+    const slide = button.closest('.box').querySelector('.quick_toggle_content_pc');
+    slideToggle(slide, 600);
     button.closest('.box').classList.toggle('active');
 }
 

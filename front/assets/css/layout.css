@@ -295,6 +295,7 @@ background-position: center center;background-repeat: no-repeat;background-image
 .quick_menu .quick_button button.top span{background-image: url('../images/common/quick_button_top.svg');}
 .quick_menu .quick_button button.back span{background-image: url('../images/common/quick_button_back.svg');}
 .quick_menu .quick_button button:hover{background-color: rgba(0,0,0,.6);}
+
 @media screen and (max-width:1800px) {
     .quick_menu{top:auto;bottom:0;height:0;}
     .quick_menu .quick_inner{position: fixed;top:auto;bottom:1.6rem;right:1.6rem;width:0;}
@@ -322,10 +323,20 @@ background-position: center center;background-repeat: no-repeat;background-image
     .quick_menu .box .quick_toggle_content_mobile .choices__list--dropdown .choices__item--selectable.is-highlighted,
     .quick_menu .box .quick_toggle_content_mobile .choices__list[aria-expanded] .choices__item--selectable.is-highlighted {background-color:#c2ccd8;}
     .quick_menu .box .quick_toggle_content_mobile .choices__list--dropdown .choices__item, .choices__list[aria-expanded] .choices__item{font-size:1.1rem;padding:0.7rem 0.8rem;text-overflow: clip;overflow: visible;}
+    .quick_menu .box .quick_toggle_content_mobile > select{width:9.5rem;border-radius:3rem 0 0 3rem;box-shadow: 5px 3px 5px rgba(0,0,0,.2);
+        font-size: 1rem;
+        font-weight: 500;
+        color: #252525;
+        padding: 0.7rem 2.3rem 0.7rem 0.8rem;
+        min-height: 2.8rem;
+        height: 2.8rem;
+        background-color: #DDE3EA;
+        border: 0;
+        border-radius: 3rem 0 0 3rem;}
 
     .quick_menu .box.active .quick_toggle_content_mobile{display: block !important;}
     .quick_menu .box.active > a, .quick_menu .box.active > button{border-radius:0 3rem 3rem 0;background-color: #DDE3EA;}
-    .quick_menu .box.active > a:after, .quick_menu .box.active > button:after{content:"";position: absolute;right:0.8rem;height:100%;width:1.6rem;top:0;background-color: #DDE3EA;background-position: center center;background-repeat: no-repeat;background-image: url("data:image/svg+xml,%3Csvg width='16' height='16' viewBox='0 0 16 16' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cg clip-path='url(%23clip0_167_11059)'%3E%3Ccircle cx='8' cy='8' r='8' fill='%23252525'/%3E%3Cpath d='M5 11L11 5' stroke='white' stroke-width='1.5' stroke-linecap='round'/%3E%3Cpath d='M5 5L11 11' stroke='white' stroke-width='1.5' stroke-linecap='round'/%3E%3C/g%3E%3Cdefs%3E%3CclipPath id='clip0_167_11059'%3E%3Crect width='16' height='16' fill='white'/%3E%3C/clipPath%3E%3C/defs%3E%3C/svg%3E%0A");}
+    .quick_menu .box.active > a:after, .quick_menu .box.active > button:after{content:"";position: absolute;right:0.8rem;height:2rem;width:1.6rem;top:50%;margin-top:-1rem;background-color: #DDE3EA;background-position: center center;background-repeat: no-repeat;background-image: url("data:image/svg+xml,%3Csvg width='16' height='16' viewBox='0 0 16 16' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cg clip-path='url(%23clip0_167_11059)'%3E%3Ccircle cx='8' cy='8' r='8' fill='%23252525'/%3E%3Cpath d='M5 11L11 5' stroke='white' stroke-width='1.5' stroke-linecap='round'/%3E%3Cpath d='M5 5L11 11' stroke='white' stroke-width='1.5' stroke-linecap='round'/%3E%3C/g%3E%3Cdefs%3E%3CclipPath id='clip0_167_11059'%3E%3Crect width='16' height='16' fill='white'/%3E%3C/clipPath%3E%3C/defs%3E%3C/svg%3E%0A");}
 
     .quick_menu .box .quick_links{background-color: #DDE3EA;padding:0.8rem 1.6rem;}
     .quick_menu .box .quick_links li{}
@@ -389,6 +400,7 @@ background-position: center center;background-repeat: no-repeat;background-image
 #aside .aside_nav > ul > li.active > a{color:#305DB3;font-weight: 600;}
 #aside .aside_nav > ul > li.active > button:before,
 #aside .aside_nav > ul > li.active > a:before{opacity: 1;}
+#aside .aside_nav > ul > li.active > a:before{background-color: #fff;border:1px solid #305DB3;background-image: url('../images/content/aside_nav_arrow_active.svg');}
 #aside .aside_nav > ul > li.active > button:before{background-color: #fff;border:1px solid #305DB3;background-image: url('../images/content/aside_nav_arrow_active.svg');transform: rotate(90deg);}
 
 @media screen and (max-width:1460px) {
