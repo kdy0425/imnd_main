@@ -154,7 +154,8 @@ nav.addEventListener('mouseleave', function () {
 
 //퀵메뉴 토글
 function quickToggle(button){
-    slideToggle(document.querySelector('.quick_toggle_content_pc'), 600);
+    const slide = button.closest('.box').querySelector('.quick_toggle_content_pc');
+    slideToggle(slide, 600);
     button.closest('.box').classList.toggle('active');
 }
 
@@ -248,35 +249,6 @@ window.addEventListener('scroll', function() {
 window.addEventListener('resize', function() {
     window.dispatchEvent(new Event('scroll'));
 });
-
-//커스텀 selectbox
-const applyChoicesToSelect = (element) => {
-    if (!element.closest('.pika-single') && !element.classList.contains('choices-applied')) {
-    const searchEnabled = element.hasAttribute('search-select');
-    new Choices(element, {
-        searchEnabled: searchEnabled, // search-select 이면 검색 활성화
-        shouldSort: false,
-	    itemSelectText: '',
-    });
-    element.classList.add('choices-applied');
-}
-};
-const selectElements = document.querySelectorAll('select');
-selectElements.forEach((element) => applyChoicesToSelect(element));
-const observer = new MutationObserver((mutations) => {
-mutations.forEach((mutation) => {
-    mutation.addedNodes.forEach((node) => {
-    if (node.tagName === 'SELECT') {
-        applyChoicesToSelect(node);
-    } else if (node.querySelectorAll) {
-        const newSelects = node.querySelectorAll('select');
-        newSelects.forEach((element) => applyChoicesToSelect(element));
-    }
-    });
-});
-});
-observer.observe(document.body, { childList: true, subtree: true });
-
 
 //관련 사이트 바로가기
 function openSite() {

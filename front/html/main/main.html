@@ -572,10 +572,28 @@
                         </a>
                     </div>
                     <div class="box">
-                        <a href="javascript:;">
+                        <button type="button" onclick="quickToggle(this);">
                             <img src="../../assets/images/common/quick_map.svg">
                             <span>가맹점찾기</span>
-                        </a>
+                        </button>
+
+                        <!-- 피시 -->
+                        <div id="quick_pc_toggle1" class="quick_toggle_content_pc" style="display: none;">
+                            <ul class="quick_links">
+                                <li><a href="javascript:;" onclick="clickBrandCnt('sh')">신한카드</a></li>
+                                <li><a href="javascript:;" onclick="clickBrandCnt('kb')">KB국민카드</a></li>
+                            </ul>
+                            <button type="button" class="quick_close" onclick="slideToggle(document.querySelector('#quick_pc_toggle1'), 600)"><span>닫기</span></button>
+                        </div>
+
+                        <!-- 모바일 -->
+                        <div class="quick_toggle_content_mobile" style="display: none;">
+                            <select name="" id="quick_link_select">
+                                <option value="">선택</option>
+                                <option value="sh">신한카드</option>
+                                <option value="kb">KB국민카드</option>
+                            </select>
+                        </div>
                     </div>
                     <div class="box">
                         <button type="button" onclick="quickToggle(this);">
@@ -584,14 +602,14 @@
                         </button>
 
                         <!-- 피시 -->
-                        <div class="quick_toggle_content_pc" style="display: none;">
+                        <div id="quick_pc_toggle2" class="quick_toggle_content_pc" style="display: none;">
                             <ul class="quick_links">
                                 <li><a href="javascript:;">카드 가입신청</a></li>
                                 <li><a href="javascript:;">포인트 지급현황</a></li>
                                 <li><a href="javascript:;">포인트 사용현황</a></li>
                                 <li><a href="javascript:;">보험 가입현황</a></li>
                             </ul>
-                            <button type="button" class="quick_close" onclick="slideToggle(document.querySelector('.quick_toggle_content_pc'), 600)"><span>닫기</span></button>
+                            <button type="button" class="quick_close" onclick="slideToggle(document.querySelector('#quick_pc_toggle2'), 600)"><span>닫기</span></button>
                         </div>
 
                         <!-- 모바일 -->
