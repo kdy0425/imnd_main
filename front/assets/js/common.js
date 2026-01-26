@@ -60,8 +60,11 @@ let slideDown = (target, duration = 500) => {
     }, duration);
 };
 
-let slideToggle = (target, duration = 500) => {
+let slideToggle = (target, duration = 500, trigger = null) => {
     if (isSliding) return; // 애니메이션 중일 때는 동작하지 않음
+    if (trigger) {
+        trigger.classList.toggle('active');
+    }
     if (window.getComputedStyle(target).display === 'none') {
         return slideDown(target, duration);
     } else {
@@ -904,3 +907,18 @@ document.addEventListener("DOMContentLoaded", () => {
       updateTabIndex();
     });    
 });
+
+
+//모달 오픈
+function openPopup(popupId) {
+    const popup = document.getElementById(popupId);
+    popup.classList.add('visible');
+    document.documentElement.classList.add('scroll_hidden');
+}
+
+//모달 닫기
+function closePopup(popupId) {
+    const popup = document.getElementById(popupId);
+    popup.classList.remove('visible');
+    document.documentElement.classList.remove('scroll_hidden');
+}

@@ -1,10 +1,10 @@
 .bg_sub_img {position:fixed;right:0;top:0;width:100%;height:100%;z-index:-1;}
 .bg_sub_img img {display:inline-block;float:right;width:100%;height:auto;min-height:768px;}
 .bg_sub01 {}
-.bg_sub02 {background:url("../../images/user/common/bg_sub02.jpg") right top no-repeat;}
+.bg_sub02 {background:url("https://www.imnd.or.kr/images/user/common/bg_sub02.jpg") right top no-repeat;}
 .bg_sub03 {}
 .bg_sub04 {}
-.bg_sub05 {background:url("../../images/user/common/bg_sub05.jpg") right top no-repeat;}
+.bg_sub05 {background:url("https://www.imnd.or.kr/images/user/common/bg_sub05.jpg") right top no-repeat;}
 .bg_sub06 {}
 
 .sub_title {font-size:32px;font-weight:600;color:#252525;}
@@ -29,22 +29,22 @@
 .page_title {text-align:center;font-size:42px;font-weight:400;margin-top:45px;margin-bottom:55px;color:#252525;}
 
 .sub_bg_box {padding:50px 50px;}
-.sub_bg_box01 {background:url("../../images/user/common/sub_bg_box01.jpg") center no-repeat;background-size:cover;}
-.sub_bg_box01 .bg_tit {font-size:24px;color:;font-weight:400;padding-bottom:15px;margin-bottom:15px;background:url("../../images/user/common/bg_tit_line01.jpg") center bottom no-repeat;}
-.sub_bg_box02 {background:url("../../images/user/common/sub_bg_box02.jpg") center no-repeat;background-size:cover;}
-.sub_bg_box02 .bg_tit {font-size:24px;color:#24a9ae;font-weight:400;padding-bottom:15px;margin-bottom:15px;background:url("../../images/user/common/bg_tit_line02.jpg") center bottom no-repeat;}
-.sub_bg_box03 {background:url("../../images/user/common/sub_bg_box03.jpg") center no-repeat;background-size:cover;}
-.sub_bg_box03 .bg_tit {font-size:24px;color:#5780d0;font-weight:400;padding-bottom:15px;margin-bottom:15px;background:url("../../images/user/common/bg_tit_line03.jpg") center bottom no-repeat;}
-.sub_bg_box04 {background:url("../../images/user/common/sub_bg_box04.jpg") center no-repeat;background-size:cover;}
-.sub_bg_box04 .bg_tit {font-size:24px;color:#a279c9;font-weight:400;padding-bottom:15px;margin-bottom:15px;background:url("../../images/user/common/bg_tit_line04.jpg") center bottom no-repeat;}
-.sub_bg_box05 {background:url("../../images/user/common/sub_bg_box05.jpg") center no-repeat;background-size:cover;}
-.sub_bg_box05 .bg_tit {font-size:24px;color:#b98f16;font-weight:400;padding-bottom:30px;margin-bottom:15px;background:url("../../images/user/common/bg_tit_line05.jpg") center bottom no-repeat;}
-.sub_bg_box06 {background:url("../../images/user/common/sub_bg_box06.jpg") center no-repeat;background-size:cover;}
-.sub_bg_box06 .bg_tit {font-size:24px;color:#28a653;font-weight:400;padding-bottom:15px;margin-bottom:15px;background:url("../../images/user/common/bg_tit_line06.jpg") center bottom no-repeat;}
-.sub_bg_box07 {background:url("../../images/user/common/sub_bg_box07.jpg") center no-repeat;background-size:cover;}
-.sub_bg_box07 .bg_tit {font-size:24px;color:#3885d3;font-weight:400;padding-bottom:15px;margin-bottom:15px;background:url("../../images/user/common/bg_tit_line07.jpg") center bottom no-repeat;}
-.sub_bg_box08 {background:url("../../images/user/common/sub_bg_box08.jpg") center no-repeat;background-size:cover;}
-.sub_bg_box08 .bg_tit {font-size:24px;color:#3885d3;font-weight:400;padding-bottom:15px;margin-bottom:15px;background:url("../../images/user/common/bg_tit_line08.jpg") center bottom no-repeat;}
+.sub_bg_box01 {background:url("https://www.imnd.or.kr/images/user/common/sub_bg_box01.jpg") center no-repeat;background-size:cover;}
+.sub_bg_box01 .bg_tit {font-size:24px;color:;font-weight:400;padding-bottom:15px;margin-bottom:15px;background:url("https://www.imnd.or.kr/images/user/common/bg_tit_line01.jpg") center bottom no-repeat;}
+.sub_bg_box02 {background:url("https://www.imnd.or.kr/images/user/common/sub_bg_box02.jpg") center no-repeat;background-size:cover;}
+.sub_bg_box02 .bg_tit {font-size:24px;color:#24a9ae;font-weight:400;padding-bottom:15px;margin-bottom:15px;background:url("https://www.imnd.or.kr/images/user/common/bg_tit_line02.jpg") center bottom no-repeat;}
+.sub_bg_box03 {background:url("https://www.imnd.or.kr/images/user/common/sub_bg_box03.jpg") center no-repeat;background-size:cover;}
+.sub_bg_box03 .bg_tit {font-size:24px;color:#5780d0;font-weight:400;padding-bottom:15px;margin-bottom:15px;background:url("https://www.imnd.or.kr/images/user/common/bg_tit_line03.jpg") center bottom no-repeat;}
+.sub_bg_box04 {background:url("https://www.imnd.or.kr/images/user/common/sub_bg_box04.jpg") center no-repeat;background-size:cover;}
+.sub_bg_box04 .bg_tit {font-size:24px;color:#a279c9;font-weight:400;padding-bottom:15px;margin-bottom:15px;background:url("https://www.imnd.or.kr/images/user/common/bg_tit_line04.jpg") center bottom no-repeat;}
+.sub_bg_box05 {background:url("https://www.imnd.or.kr/images/user/common/sub_bg_box05.jpg") center no-repeat;background-size:cover;}
+.sub_bg_box05 .bg_tit {font-size:24px;color:#b98f16;font-weight:400;padding-bottom:30px;margin-bottom:15px;background:url("https://www.imnd.or.kr/images/user/common/bg_tit_line05.jpg") center bottom no-repeat;}
+.sub_bg_box06 {background:url("https://www.imnd.or.kr/images/user/common/sub_bg_box06.jpg") center no-repeat;background-size:cover;}
+.sub_bg_box06 .bg_tit {font-size:24px;color:#28a653;font-weight:400;padding-bottom:15px;margin-bottom:15px;background:url("https://www.imnd.or.kr/images/user/common/bg_tit_line06.jpg") center bottom no-repeat;}
+.sub_bg_box07 {background:url("https://www.imnd.or.kr/images/user/common/sub_bg_box07.jpg") center no-repeat;background-size:cover;}
+.sub_bg_box07 .bg_tit {font-size:24px;color:#3885d3;font-weight:400;padding-bottom:15px;margin-bottom:15px;background:url("https://www.imnd.or.kr/images/user/common/bg_tit_line07.jpg") center bottom no-repeat;}
+.sub_bg_box08 {background:url("https://www.imnd.or.kr/images/user/common/sub_bg_box08.jpg") center no-repeat;background-size:cover;}
+.sub_bg_box08 .bg_tit {font-size:24px;color:#3885d3;font-weight:400;padding-bottom:15px;margin-bottom:15px;background:url("https://www.imnd.or.kr/images/user/common/bg_tit_line08.jpg") center bottom no-repeat;}
 .sub_bg_box .bg_tit {text-align:center;}
 
 .sub_bg_box01 span.txt_big {font-size:36px;}
@@ -53,10 +53,10 @@
 .sub_bg_box01 .tit02 {font-size:16px;margin-top:30px;text-align:left;}
 .sub_bg_box01 .tit02 span {font-size:16px;}
 
-.sub_bg_box2 {position:relative;padding-bottom:5px;margin-top:30px;margin-bottom:30px;background:url("../../images/user/common/img_border_style01.gif") 0 bottom repeat-x;}
-.sub_bg_box2.type2 {margin-top:30px;background:#f2f3f6 url("../../images/user/common/img_border_style01.gif") 0 bottom repeat-x;}
-.sub_bg_box2 .bg_top {background:url("../../images/user/common/img_border_style01.gif") 0 top repeat-x;padding:30px;}
-.sub_bg_box2 .bg_top.type2 {background:#f2f3f6 url("../../images/user/common/img_border_style01.gif") 0 top repeat-x;padding:32px 30px 30px;}
+.sub_bg_box2 {position:relative;padding-bottom:5px;margin-top:30px;margin-bottom:30px;background:url("https://www.imnd.or.kr/images/user/common/img_border_style01.gif") 0 bottom repeat-x;}
+.sub_bg_box2.type2 {margin-top:30px;background:#f2f3f6 url("https://www.imnd.or.kr/images/user/common/img_border_style01.gif") 0 bottom repeat-x;}
+.sub_bg_box2 .bg_top {background:url("https://www.imnd.or.kr/images/user/common/img_border_style01.gif") 0 top repeat-x;padding:30px;}
+.sub_bg_box2 .bg_top.type2 {background:#f2f3f6 url("https://www.imnd.or.kr/images/user/common/img_border_style01.gif") 0 top repeat-x;padding:32px 30px 30px;}
 .sub_bg_box2 .bg_top .tit01 {font-size:20px;font-weight:400;color:#252525;}
 .sub_bg_box2 .bg_top .tit01 span {font-size:20px;font-weight:400;color:#24a9ae;}
 .sub_bg_box2 .bg_top .tit01 span.txt_medium {font-size:30px;color:#252525;vertical-align:middle;}
@@ -78,41 +78,41 @@
 .txt_money02 {text-align:left;font-size:20px;margin-top:20px;color:#252525;}
 .txt_money03 {text-align:left;font-size:16px;margin-top:5px;color:#666;}
 
-.tab_area {width:100%;background:url("../../images/user/common/bg_tab01_all.png") 0 0 repeat-x;margin-top:40px;}
+.tab_area {width:100%;background:url("https://www.imnd.or.kr/images/user/common/bg_tab01_all.png") 0 0 repeat-x;margin-top:40px;}
 .tab_area .tab {overflow:hidden;}
-.tab_area .tab li {float:left;background:url("../../images/user/common/tab_bg.png") right 0 no-repeat;}
+.tab_area .tab li {float:left;background:url("https://www.imnd.or.kr/images/user/common/tab_bg.png") right 0 no-repeat;}
 .tab_area .tab li:first-child {border-left:1px solid #ffffff50;margin-left:50px;}
-.tab_area .tab li.active {position:relative;background:url("../../images/user/common/tab_bg_active.png") right 0 no-repeat;z-index:3;margin-left:-18px;}
-.tab_area .tab li a {text-align:center;display:inline-block;color:#fff;padding:16px 25px 13px;height:52px;font-size:16px;background:url("../../images/user/common/bull_tab_arrow_off.png") 75% 25px no-repeat;padding-right:60px;
+.tab_area .tab li.active {position:relative;background:url("https://www.imnd.or.kr/images/user/common/tab_bg_active.png") right 0 no-repeat;z-index:3;margin-left:-18px;}
+.tab_area .tab li a {text-align:center;display:inline-block;color:#fff;padding:16px 25px 13px;height:52px;font-size:16px;background:url("https://www.imnd.or.kr/images/user/common/bull_tab_arrow_off.png") 75% 25px no-repeat;padding-right:60px;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-.tab_area .tab li.active a {color:#252525;font-weight:400;background:url("../../images/user/common/bull_tab_arrow_on.png") 75% 25px no-repeat;padding-right:60px;padding-left:35px;}
+.tab_area .tab li.active a {color:#252525;font-weight:400;background:url("https://www.imnd.or.kr/images/user/common/bull_tab_arrow_on.png") 75% 25px no-repeat;padding-right:60px;padding-left:35px;}
 .tab_area .tab li:first-child.active {margin-left:50px;}
 .tab_area .tab li:first-child.active a {padding-left:29px;}
 .tab_area .tab li:first-child a {padding-left:37px;}
 
-.type02 .tab_area {background:url("../../images/user/common/bg_tab02_all.png") 0 0 repeat-x;}
-.type02 .tab_area .tab li {float:left;background:url("../../images/user/common/tab2_bg.png") right 0 no-repeat;}
+.type02 .tab_area {background:url("https://www.imnd.or.kr/images/user/common/bg_tab02_all.png") 0 0 repeat-x;}
+.type02 .tab_area .tab li {float:left;background:url("https://www.imnd.or.kr/images/user/common/tab2_bg.png") right 0 no-repeat;}
 .type02 .tab_area .tab li:first-child {border-left:1px solid #ffffff50;margin-left:50px;}
-.type02 .tab_area .tab li.active {position:relative;background:url("../../images/user/common/tab2_bg_active.png") right 0 no-repeat;z-index:3;margin-left:-18px;}
+.type02 .tab_area .tab li.active {position:relative;background:url("https://www.imnd.or.kr/images/user/common/tab2_bg_active.png") right 0 no-repeat;z-index:3;margin-left:-18px;}
 .type02 .tab_area .tab li:first-child.active {margin-left:50px;}
 .type02 .tab_area .tab li:first-child.active a {padding-left:29px;}
 .type02 .tab_area .tab li:first-child a {padding-left:37px;}
 
-.type06 .tab_area {background:url("../../images/user/common/bg_tab06_all.png") 0 0 repeat-x;}
-.type06 .tab_area .tab li {float:left;background:url("../../images/user/common/tab6_bg.png") right 0 no-repeat;}
+.type06 .tab_area {background:url("https://www.imnd.or.kr/images/user/common/bg_tab06_all.png") 0 0 repeat-x;}
+.type06 .tab_area .tab li {float:left;background:url("https://www.imnd.or.kr/images/user/common/tab6_bg.png") right 0 no-repeat;}
 .type06 .tab_area .tab li:first-child {border-left:1px solid #ffffff50;margin-left:50px;}
-.type06 .tab_area .tab li.active {position:relative;background:url("../../images/user/common/tab6_bg_active.png") right 0 no-repeat;z-index:3;margin-left:-18px;}
+.type06 .tab_area .tab li.active {position:relative;background:url("https://www.imnd.or.kr/images/user/common/tab6_bg_active.png") right 0 no-repeat;z-index:3;margin-left:-18px;}
 .type06 .tab_area .tab li:first-child.active {margin-left:50px;}
 .type06 .tab_area .tab li:first-child.active a {padding-left:29px;}
 .type06 .tab_area .tab li:first-child a {padding-left:37px;}
 
-.type07 .tab_area {background:url("../../images/user/common/bg_tab07_all.png") 0 0 repeat-x;}
-.type07 .tab_area .tab li {float:left;background:url("../../images/user/common/tab7_bg.png") right 0 no-repeat;}
+.type07 .tab_area {background:url("https://www.imnd.or.kr/images/user/common/bg_tab07_all.png") 0 0 repeat-x;}
+.type07 .tab_area .tab li {float:left;background:url("https://www.imnd.or.kr/images/user/common/tab7_bg.png") right 0 no-repeat;}
 .type07 .tab_area .tab li:first-child {border-left:1px solid #ffffff50;margin-left:50px;}
-.type07 .tab_area .tab li.active {position:relative;background:url("../../images/user/common/tab7_bg_active.png") right 0 no-repeat;z-index:3;margin-left:-18px;}
+.type07 .tab_area .tab li.active {position:relative;background:url("https://www.imnd.or.kr/images/user/common/tab7_bg_active.png") right 0 no-repeat;z-index:3;margin-left:-18px;}
 .type07 .tab_area .tab li:first-child.active {margin-left:50px;}
 .type07 .tab_area .tab li:first-child.active a {padding-left:29px;}
 .type07 .tab_area .tab li:first-child a {padding-left:37px;}
@@ -136,7 +136,7 @@
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-.selectbox:before {content: "";position: absolute;top:21px;right:15px;width:12px;height:7px;background:url("../../images/user/common/bull_tab_arrow_on.png") no-repeat;}
+.selectbox:before {content: "";position: absolute;top:21px;right:15px;width:12px;height:7px;background:url("https://www.imnd.or.kr/images/user/common/bull_tab_arrow_on.png") no-repeat;}
 .selectbox label {font-size:16px;color:#666;position: absolute;bottom:15px;left:20px;color: #999;z-index: -1;}
 
 .selectbox select {width: 100%;height: auto;line-height: normal;border: 0;opacity: 0;
@@ -162,12 +162,12 @@
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-.search_all .btn_search {background:url("../../images/user/common/btn_search.png") 15px center no-repeat;line-height:150%;vertical-align:bottom;display:inline-block;width:100px;padding:12px 10px 15px 22px;height:50px;font-size:16px;color:#fff;background-color:#282828;
+.search_all .btn_search {background:url("https://www.imnd.or.kr/images/user/common/btn_search.png") 15px center no-repeat;line-height:150%;vertical-align:bottom;display:inline-block;width:100px;padding:12px 10px 15px 22px;height:50px;font-size:16px;color:#fff;background-color:#282828;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-.search_all .btn_search1 {background:url("../../images/user/common/btn_search.png") 15px center no-repeat;line-height:150%;vertical-align:bottom;display:inline-block;width:100px;padding:12px 10px 15px 22px;height:50px;font-size:16px;color:#fff;background-color:#282828;
+.search_all .btn_search1 {background:url("https://www.imnd.or.kr/images/user/common/btn_search.png") 15px center no-repeat;line-height:150%;vertical-align:bottom;display:inline-block;width:100px;padding:12px 10px 15px 22px;height:50px;font-size:16px;color:#fff;background-color:#282828;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
@@ -189,8 +189,8 @@
 .tb_top_line {border-top:2px solid #252525;}
 .tb_top {font-size:16px;padding-bottom:5px;border-bottom:2px solid #252525;}
 .tb_top span {font-size:16px;font-weight:400;}
-.tb_top2 {font-size:16px;padding-top:5px;padding-bottom:10px;border-bottom:2px solid #252525;padding-left:25px;background:url("../../images/user/common/bull_person.png") left 8px no-repeat;}
-.tb_top2 span {font-size:16px;font-weight:400;padding-right:20px;background:url("../../images/user/common/bull_import.png") right 8px no-repeat;}
+.tb_top2 {font-size:16px;padding-top:5px;padding-bottom:10px;border-bottom:2px solid #252525;padding-left:25px;background:url("https://www.imnd.or.kr/images/user/common/bull_person.png") left 8px no-repeat;}
+.tb_top2 span {font-size:16px;font-weight:400;padding-right:20px;background:url("https://www.imnd.or.kr/images/user/common/bull_import.png") right 8px no-repeat;}
 .tb_top3 {padding-bottom:5px;border-bottom:2px solid #252525;position:relative;}
 .tb_top3 .tb_top_right {position:absolute;bottom:10px;right:0;}
 .tb_top3 .tb_top_right .selectbox01 {padding:4px 30px 4px 10px;min-height:32px;font-size:14px;}
@@ -200,12 +200,12 @@
 .tb02 {width:100%;}
 .tb02 th {padding:10px 10px;font-weight:400;font-size:16px;color:#252525;border-bottom:1px solid #a5a4ac;}
 .tb02 td {padding:10px 10px;text-align:center;font-size:16px;border-bottom:1px solid #d7d6db;color:#666;font-weight:300;}
-.tb02 td.question_tit {font-size:16px;text-align:left;font-weight:400;background:url("../../images/user/common/bull_q.png") left center no-repeat;padding-left:30px;}
-.tb02 td.answer_tit {font-size:16px;text-align:left;font-weight:400;background:url("../../images/user/common/bull_a.png") 18px center no-repeat;padding-left:72px;}
+.tb02 td.question_tit {font-size:16px;text-align:left;font-weight:400;background:url("https://www.imnd.or.kr/images/user/common/bull_q.png") left center no-repeat;padding-left:30px;}
+.tb02 td.answer_tit {font-size:16px;text-align:left;font-weight:400;background:url("https://www.imnd.or.kr/images/user/common/bull_a.png") 18px center no-repeat;padding-left:72px;}
 
 .tb03 {width:100%;}
 .tb03 th {vertical-align:top;padding:16px 20px 10px 40px;text-align:left;font-weight:400;font-size:16px;color:#252525;border-bottom:1px solid #d7d6db;}
-.tb03 th.bull_import {background:url("../../images/user/common/bull_import.png") 22px 24px no-repeat;}
+.tb03 th.bull_import {background:url("https://www.imnd.or.kr/images/user/common/bull_import.png") 22px 24px no-repeat;}
 .tb03 td {padding:10px 10px;font-size:16px;border-bottom:1px solid #d7d6db;color:#666;font-weight:300;}
 .tb03 td input {padding:5px 10px 6px;border:1px solid #d7d7d7;font-size:16px; width: 97.6%;}
 .tb03 td textarea {padding:5px 10px 6px;border:1px solid #d7d7d7;border:1px solid #d7d6db;resize:none;width:100%;font-size:16px;
@@ -219,16 +219,16 @@
 .tb04 tr th.title {padding-left:30px;}
 .tb04 td {padding:10px 10px;text-align:left;font-size:16px;border-bottom:1px solid #a5a4ac;color:#666;font-weight:300;}
 /* CHANGE_20190218_이미지 사이즈 변경 요청_제주환D
-.tb04 td.question_tit {font-size:16px;text-align:left;font-weight:400;background:url("../../images/user/common/bull_q.png") left center no-repeat;padding-left:35px;}
-.tb04 td.answer_tit {font-size:16px;text-align:left;font-weight:400;padding-left:32px;background:url("../../images/user/common/bull_a2.png") left center no-repeat;padding-left:60px;}
+.tb04 td.question_tit {font-size:16px;text-align:left;font-weight:400;background:url("https://www.imnd.or.kr/images/user/common/bull_q.png") left center no-repeat;padding-left:35px;}
+.tb04 td.answer_tit {font-size:16px;text-align:left;font-weight:400;padding-left:32px;background:url("https://www.imnd.or.kr/images/user/common/bull_a2.png") left center no-repeat;padding-left:60px;}
 */
-.tb04 td.question_tit {font-size:16px;text-align:left;font-weight:400;background:url("../../images/user/common/bull_q.png") left center no-repeat;padding-left:30px;}
-.tb04 td.answer_tit {font-size:16px;text-align:left;font-weight:400;background:url("../../images/user/common/bull_a.png") 18px center no-repeat;padding-left:72px;}
+.tb04 td.question_tit {font-size:16px;text-align:left;font-weight:400;background:url("https://www.imnd.or.kr/images/user/common/bull_q.png") left center no-repeat;padding-left:30px;}
+.tb04 td.answer_tit {font-size:16px;text-align:left;font-weight:400;background:url("https://www.imnd.or.kr/images/user/common/bull_a.png") 18px center no-repeat;padding-left:72px;}
 .tb04 .tb_con {padding:20px 30px;background-color:#f7f7f9;font-weight:400;}
 
 .tb05 {width:100%;}
 .tb05 th {background-color:#f2f3f6;vertical-align:top;padding:16px 20px 14px 40px;text-align:left;font-weight:400;font-size:16px;color:#252525;border-bottom:1px solid #d7d6db;}
-.tb05 th.bull_import {background:#f2f3f6 url("../../images/user/common/bull_import.png") 22px 24px no-repeat;}
+.tb05 th.bull_import {background:#f2f3f6 url("https://www.imnd.or.kr/images/user/common/bull_import.png") 22px 24px no-repeat;}
 .tb05 td {padding:10px 20px;font-size:16px;border-bottom:1px solid #d7d6db;color:#666;font-weight:300;}
 .tb05 td input.txtbox {padding:5px 10px 5px;min-height:36px;border:1px solid #d7d7d7;font-size:16px;display:inline-block;vertical-align:middle;
 	-webkit-box-sizing: border-box;
@@ -251,14 +251,14 @@
 .tb06 td .list {padding:5px 0;}
 .tb06 td .list dt {color:#252525;font-size:16px;font-weight:400;}
 .tb06 td .list dd {color:#666;font-size:16px;font-weight:300;}
-.tb06 td .list dd.bull_import {padding-left:28px;background:url("../../images/user/common/bull_import3.png") 10px 5px no-repeat;}
+.tb06 td .list dd.bull_import {padding-left:28px;background:url("https://www.imnd.or.kr/images/user/common/bull_import3.png") 10px 5px no-repeat;}
 .tb06 td input.txtbox {width:100%;padding:3px 10px 4px;background-color:#fff;min-height:32px;border:1px solid #d7d7d7;font-size:16px;display:inline-block;vertical-align:middle;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
 .tb06 td .selectbox01 {width:100%;padding:3px 30px 4px 10px;min-height:32px;}
-.tb06 .total th {border-top:2px solid #252525;background:url("../../images/user/common/bg_tb_totla.png") 0 0 repeat;}
+.tb06 .total th {border-top:2px solid #252525;background:url("https://www.imnd.or.kr/images/user/common/bg_tb_totla.png") 0 0 repeat;}
 .tb06 td textarea {padding:5px 10px 6px;border:1px solid #d7d7d7;border:1px solid #d7d6db;resize:none;width:100%;font-size:16px;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -276,7 +276,7 @@
 .import_area .left_space {font-size:16px;}
 .import_area img {display:inline-block;vertical-align:middle;margin-right:5px;}
 .import_area em {font-weight:400;}
-.import_area2 {margin-top:10px;font-size:16px;padding-left:18px;background:url("../../images/user/common/bull_import3.png") left 5px no-repeat;font-weight:300;}
+.import_area2 {margin-top:10px;font-size:16px;padding-left:18px;background:url("https://www.imnd.or.kr/images/user/common/bull_import3.png") left 5px no-repeat;font-weight:300;}
 .import_area2 span {font-size:16px;font-weight:400;}
 
 .txt_middle {display:inline-block;vertical-align:middle;color:#252525;text-align:left;font-weight:400;font-size:16px;max-width:100%;padding:2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
@@ -287,27 +287,27 @@
 .txt_middle.has_bull {padding-left:80px;}
 .txt_middle2 {display:inline-block;vertical-align:middle;color:#252525;text-align:left;font-weight:300;font-size:16px;padding:2px;}
 
-.txt_middle.bull_new {padding-right:35px;background:url("../../images/user/common/bull_new.png") right center no-repeat;}
-.txt_middle.bull_lock {padding-right:35px;background:url("../../images/user/common/bull_lock.png") right center no-repeat;}
-.txt_middle.bull_new_lock {padding-right:70px;background:url("../../images/user/common/bull_new_lock.png") right center no-repeat;}
+.txt_middle.bull_new {padding-right:35px;background:url("https://www.imnd.or.kr/images/user/common/bull_new.png") right center no-repeat;}
+.txt_middle.bull_lock {padding-right:35px;background:url("https://www.imnd.or.kr/images/user/common/bull_lock.png") right center no-repeat;}
+.txt_middle.bull_new_lock {padding-right:70px;background:url("https://www.imnd.or.kr/images/user/common/bull_new_lock.png") right center no-repeat;}
 
 .bull_mark {vertical-align:middle;margin-left:8px;}
 .bull_mark img {display:inline-block;vertical-align:middle;}
 .btn_prev,.btn_next {display:inline-block;font-size:16px;padding-left:10px;padding-right:30px;}
-.btn_prev {background:url("../../images/user/common/btn_prev.png") right center no-repeat;}
-.btn_next {background:url("../../images/user/common/btn_next.png") right center no-repeat;}
+.btn_prev {background:url("https://www.imnd.or.kr/images/user/common/btn_prev.png") right center no-repeat;}
+.btn_next {background:url("https://www.imnd.or.kr/images/user/common/btn_next.png") right center no-repeat;}
 
 /* dl */
 .dl_box {}
-/* .dl_box dt {position:relative;font-size:16px;cursor:pointer;padding:14px 55px 16px;border-bottom:1px solid #d7d6db;background:url("../../images/user/common/bull_q.png") 20px 14px no-repeat; CHANGE_20190218_이미지 사이즈 변경 요청_제주환D */
-.dl_box dt {position:relative;font-size:16px;cursor:pointer;padding:14px 55px 16px;border-bottom:1px solid #d7d6db;background:url("../../images/user/common/bull_q.png") 20px center no-repeat;
+/* .dl_box dt {position:relative;font-size:16px;cursor:pointer;padding:14px 55px 16px;border-bottom:1px solid #d7d6db;background:url("https://www.imnd.or.kr/images/user/common/bull_q.png") 20px 14px no-repeat; CHANGE_20190218_이미지 사이즈 변경 요청_제주환D */
+.dl_box dt {position:relative;font-size:16px;cursor:pointer;padding:14px 55px 16px;border-bottom:1px solid #d7d6db;background:url("https://www.imnd.or.kr/images/user/common/bull_q.png") 20px center no-repeat;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
 .dl_box dt .bull_box {position:absolute;left:58px;top:15px;}
-/* .dl_box dd {font-size:16px;display:none;padding:23px 20px 23px 100px;background:url("../../images/user/common/bull_a.png") 32px 20px no-repeat;border-bottom:1px solid #d7d6db;background-color:#f7f7f9;} CHANGE_20190218_이미지 사이즈 변경 요청_제주환D */
-.dl_box dd {display:none;padding:23px 20px 23px 100px;background:url("../../images/user/common/bull_a.png") 38px 20px no-repeat;border-bottom:1px solid #d7d6db;background-color:#f7f7f9;}
+/* .dl_box dd {font-size:16px;display:none;padding:23px 20px 23px 100px;background:url("https://www.imnd.or.kr/images/user/common/bull_a.png") 32px 20px no-repeat;border-bottom:1px solid #d7d6db;background-color:#f7f7f9;} CHANGE_20190218_이미지 사이즈 변경 요청_제주환D */
+.dl_box dd {display:none;padding:23px 20px 23px 100px;background:url("https://www.imnd.or.kr/images/user/common/bull_a.png") 38px 20px no-repeat;border-bottom:1px solid #d7d6db;background-color:#f7f7f9;}
 .dl_box dd .tb01{display:table-cell !important;} /* 추가 */
 .dl_box dd .tb01 tr td { font-size:16px;} /* 추가 */
 
@@ -338,7 +338,7 @@ table .bull_box_all .txt_middle.has_bull {padding-left:5px;}
 
 /* select */
 .selectbox01 {display:inline-block;padding:6px 30px 7px 10px;font-size:16px;border:1px solid #d7d7d7;height:auto;line-height:normal;color:#666;min-height:36px;
-	background: #fff url("../../images/user/common/bull_tab_arrow_on.png") no-repeat scroll 90% center;vertical-align:middle;
+	background: #fff url("https://www.imnd.or.kr/images/user/common/bull_tab_arrow_on.png") no-repeat scroll 90% center;vertical-align:middle;
 	-webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
@@ -367,7 +367,7 @@ table .bull_box_all .txt_middle.has_bull {padding-left:5px;}
 .dropdown a:hover,.dropdown a.active { color:#fff;}
 .dropdown dt {text-align:left;}
 .dropdown dt a:hover {color:#3b3b3b;}
-.dropdown dt a {background:#fff url("../../images/user/common/bull_tab_arrow_off.png") no-repeat scroll 95% center; display:block;width:100%;padding:10px 20px;
+.dropdown dt a {background:#fff url("https://www.imnd.or.kr/images/user/common/bull_tab_arrow_off.png") no-repeat scroll 95% center; display:block;width:100%;padding:10px 20px;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
@@ -392,7 +392,7 @@ table .bull_box_all .txt_middle.has_bull {padding-left:5px;}
 }
 .selectbox2.focus {border-color: #66afe9;}
 .selectbox2:before {content: "";position: absolute;top: 50%;right: 15px;width: 12px;height:7px;margin-top: -3px;
-	background:#fff url("../../images/user/common/bull_tab_arrow_on.png") no-repeat scroll 95% center;
+	background:#fff url("https://www.imnd.or.kr/images/user/common/bull_tab_arrow_on.png") no-repeat scroll 95% center;
 }
 .selectbox2 label {position: absolute;top:1px;left: 5px;padding:11px 30px 13px 15px;font-size:16px;color:#666;z-index: -1; }
 .selectbox2 select {width:100%;height:48px;padding:11px 35px 13px 20px;border:0;opacity:0; font-weight:300;
@@ -412,7 +412,7 @@ table .bull_box_all .txt_middle.has_bull {padding-left:5px;}
 }
 .selectbox3.focus {border-color: #66afe9;}
 .selectbox3:before {content: "";position: absolute;top: 50%;right: 15px;width: 12px;height:7px;margin-top: -3px;
-	background:#fff url("../../images/user/common/bull_tab_arrow_on.png") no-repeat scroll 95% center;
+	background:#fff url("https://www.imnd.or.kr/images/user/common/bull_tab_arrow_on.png") no-repeat scroll 95% center;
 }
 .selectbox3 label {position: absolute;top:1px;left: 5px;padding:11px 30px 13px 15px;font-size:16px;color:#666;z-index: -1; }
 .selectbox3 select {width:100%;height:48px;padding:11px 35px 13px 20px;border:0;opacity:0; font-weight:300;
@@ -432,27 +432,27 @@ table .bull_box_all .txt_middle.has_bull {padding-left:5px;}
 .btn_area3 {margin-top:15px;}
 .btn {display:inline-block;padding:13px 10px;font-size:16px;text-align:center;vertical-align:middle;}
 
-.btn.see_more {overflow:hidden;padding:2px 25px 7px 40px;background:url("../../images/user/common/btn_search.png") 20px 8px no-repeat;background-size:14px 14px;color:#fff;border-radius:50px;}
-.btn.type01 {background: url("../../images/user/common/bull_write.png") 20px center no-repeat;color:#fff;padding-left:50px;padding-right:25px;}
-.btn.type02 {border:1px solid #d1ac43;color:#d1ac43;background: url("../../images/user/common/bull_x.png") 25px center no-repeat;padding-left:50px;padding-right:25px;}
-.btn.type03 {background: url("../../images/user/common/bull_check_arrow.png") 25px center no-repeat;color:#fff;padding-left:50px;padding-right:25px;}
-.btn.type04 {background: url("../../images/user/common/bull_list.png") 23px center no-repeat;color:#fff;padding-left:50px;padding-right:25px;}
+.btn.see_more {overflow:hidden;padding:2px 25px 7px 40px;background:url("https://www.imnd.or.kr/images/user/common/btn_search.png") 20px 8px no-repeat;background-size:14px 14px;color:#fff;border-radius:50px;}
+.btn.type01 {background: url("https://www.imnd.or.kr/images/user/common/bull_write.png") 20px center no-repeat;color:#fff;padding-left:50px;padding-right:25px;}
+.btn.type02 {border:1px solid #d1ac43;color:#d1ac43;background: url("https://www.imnd.or.kr/images/user/common/bull_x.png") 25px center no-repeat;padding-left:50px;padding-right:25px;}
+.btn.type03 {background: url("https://www.imnd.or.kr/images/user/common/bull_check_arrow.png") 25px center no-repeat;color:#fff;padding-left:50px;padding-right:25px;}
+.btn.type04 {background: url("https://www.imnd.or.kr/images/user/common/bull_list.png") 23px center no-repeat;color:#fff;padding-left:50px;padding-right:25px;}
 
-.type02 .btn.type01 {background:url("../../images/user/common/bull_write.png") 20px center no-repeat;color:#fff;padding-left:50px;padding-right:25px;}
-.type02 .btn.type02 {border:1px solid #1bbdc2;color:#1bbdc2;background: url("../../images/user/common/bull_x2.png") 25px center no-repeat;padding-left:50px;padding-right:25px;}
-.type02 .btn.type03 {background:url("../../images/user/common/bull_check_arrow.png") 25px center no-repeat;color:#fff;padding-left:50px;padding-right:25px;}
-.type02 .btn.type04 {background:#1bbdc2 url("../../images/user/common/bull_list.png") 23px center no-repeat;color:#fff;padding-left:50px;padding-right:25px;}
-.type02 .btn.type05 {border:1px solid #1bbdc2;color:#1bbdc2;background:url("../../images/user/common/btn_search2.png") 25px center no-repeat;padding-left:50px;padding-right:25px;}
-.type02 .btn.type06 {color:#fff;background:url("../../images/user/common/btn_search.png") 25px center no-repeat;padding-left:50px;padding-right:25px;}
+.type02 .btn.type01 {background:url("https://www.imnd.or.kr/images/user/common/bull_write.png") 20px center no-repeat;color:#fff;padding-left:50px;padding-right:25px;}
+.type02 .btn.type02 {border:1px solid #1bbdc2;color:#1bbdc2;background: url("https://www.imnd.or.kr/images/user/common/bull_x2.png") 25px center no-repeat;padding-left:50px;padding-right:25px;}
+.type02 .btn.type03 {background:url("https://www.imnd.or.kr/images/user/common/bull_check_arrow.png") 25px center no-repeat;color:#fff;padding-left:50px;padding-right:25px;}
+.type02 .btn.type04 {background:#1bbdc2 url("https://www.imnd.or.kr/images/user/common/bull_list.png") 23px center no-repeat;color:#fff;padding-left:50px;padding-right:25px;}
+.type02 .btn.type05 {border:1px solid #1bbdc2;color:#1bbdc2;background:url("https://www.imnd.or.kr/images/user/common/btn_search2.png") 25px center no-repeat;padding-left:50px;padding-right:25px;}
+.type02 .btn.type06 {color:#fff;background:url("https://www.imnd.or.kr/images/user/common/btn_search.png") 25px center no-repeat;padding-left:50px;padding-right:25px;}
 
-.type03 .btn.type01 {background:#3886d3 url("../../images/user/common/bull_write.png") 20px center no-repeat;color:#fff;padding-left:50px;padding-right:25px;}
-.type03 .btn.type02 {border:1px solid #3886d3;color:#3886d3;background: url("../../images/user/common/bull_x3.png") 25px center no-repeat;padding-left:50px;padding-right:25px;}
-.type03 .btn.type03 {background: url("../../images/user/common/bull_check_arrow.png") 25px center no-repeat;color:#fff;padding-left:50px;padding-right:25px;}
-.type03 .btn.type04 {background:#3886d3 url("../../images/user/common/bull_list.png") 23px center no-repeat;color:#fff;padding-left:50px;padding-right:25px;}
-.type03 .btn.type05 {border:1px solid #3886d3;color:#3886d3;background:#fff url("../../images/user/common/btn_search2.png") 25px center no-repeat;padding-left:50px;padding-right:25px;}
-.type03 .btn.type06 {color:#fff;background:#3886d3 url("../../images/user/common/btn_search.png") 25px center no-repeat;padding-left:50px;padding-right:25px;}
+.type03 .btn.type01 {background:#3886d3 url("https://www.imnd.or.kr/images/user/common/bull_write.png") 20px center no-repeat;color:#fff;padding-left:50px;padding-right:25px;}
+.type03 .btn.type02 {border:1px solid #3886d3;color:#3886d3;background: url("https://www.imnd.or.kr/images/user/common/bull_x3.png") 25px center no-repeat;padding-left:50px;padding-right:25px;}
+.type03 .btn.type03 {background: url("https://www.imnd.or.kr/images/user/common/bull_check_arrow.png") 25px center no-repeat;color:#fff;padding-left:50px;padding-right:25px;}
+.type03 .btn.type04 {background:#3886d3 url("https://www.imnd.or.kr/images/user/common/bull_list.png") 23px center no-repeat;color:#fff;padding-left:50px;padding-right:25px;}
+.type03 .btn.type05 {border:1px solid #3886d3;color:#3886d3;background:#fff url("https://www.imnd.or.kr/images/user/common/btn_search2.png") 25px center no-repeat;padding-left:50px;padding-right:25px;}
+.type03 .btn.type06 {color:#fff;background:#3886d3 url("https://www.imnd.or.kr/images/user/common/btn_search.png") 25px center no-repeat;padding-left:50px;padding-right:25px;}
 
-.type04 .btn.type01 {background: url("../../images/user/common/bull_write.png") 20px center no-repeat;color:#fff;padding-left:50px;padding-right:25px;}
+.type04 .btn.type01 {background: url("https://www.imnd.or.kr/images/user/common/bull_write.png") 20px center no-repeat;color:#fff;padding-left:50px;padding-right:25px;}
 .type04 .btn.type01.big {padding-left:80px;padding-right:60px;background-position-x:53px;}
 
 
@@ -461,140 +461,140 @@ table .bull_box_all .txt_middle.has_bull {padding-left:5px;}
 .space_area {padding:0 8px;}
 .btn_wrap {display:inline-block;vertical-align:middle;}
 .btn_wrap.bor_radius {display:inline-block;overflow:hidden;border-radius:50px;}
-.btn_wrap.bgcolor_white {background: url("../../images/user/common/bg_btn_white.gif") left top repeat;}
-.btn_wrap.bgcolor_sky {background: url("../../images/user/common/bg_btn_sky.gif") left top repeat;}
-.btn_wrap.bgcolor_blue {background: url("../../images/user/common/bg_btn_blue.gif") left top repeat;}
-.btn_wrap.bgcolor_blue2 {background: url("../../images/user/common/bg_btn_blue2.gif") left top repeat;}
-.btn_wrap.bgcolor_blue3 {background: url("../../images/user/common/bg_btn_blue3.gif") left top repeat;}
-.btn_wrap.bgcolor_mint {background: url("../../images/user/common/bg_btn_mint.gif") left top repeat;}
-.btn_wrap.bgcolor_green {background: url("../../images/user/common/bg_btn_green.gif") left top repeat;}
-.btn_wrap.bgcolor_green2 {background: url("../../images/user/common/bg_btn_green2.gif") left top repeat;}
-.btn_wrap.bgcolor_green3 {background: url("../../images/user/common/bg_btn_green3.gif") left top repeat;}
-.btn_wrap.bgcolor_yellow {background: url("../../images/user/common/bg_btn_yellow.gif") left top repeat;}
-.btn_wrap.bgcolor_purple {background: url("../../images/user/common/bg_btn_purple.gif") left top repeat;}
-.btn_reload {background:url("../../images/user/common/bull_reload.png") 15px center no-repeat;background-size:14px 14px;line-height:150%;vertical-align:bottom;display:inline-block;padding:5px 19px 6px 34px;border:1px solid #a17cc5;font-size:14px;color:#a17cc5;
+.btn_wrap.bgcolor_white {background: url("https://www.imnd.or.kr/images/user/common/bg_btn_white.gif") left top repeat;}
+.btn_wrap.bgcolor_sky {background: url("https://www.imnd.or.kr/images/user/common/bg_btn_sky.gif") left top repeat;}
+.btn_wrap.bgcolor_blue {background: url("https://www.imnd.or.kr/images/user/common/bg_btn_blue.gif") left top repeat;}
+.btn_wrap.bgcolor_blue2 {background: url("https://www.imnd.or.kr/images/user/common/bg_btn_blue2.gif") left top repeat;}
+.btn_wrap.bgcolor_blue3 {background: url("https://www.imnd.or.kr/images/user/common/bg_btn_blue3.gif") left top repeat;}
+.btn_wrap.bgcolor_mint {background: url("https://www.imnd.or.kr/images/user/common/bg_btn_mint.gif") left top repeat;}
+.btn_wrap.bgcolor_green {background: url("https://www.imnd.or.kr/images/user/common/bg_btn_green.gif") left top repeat;}
+.btn_wrap.bgcolor_green2 {background: url("https://www.imnd.or.kr/images/user/common/bg_btn_green2.gif") left top repeat;}
+.btn_wrap.bgcolor_green3 {background: url("https://www.imnd.or.kr/images/user/common/bg_btn_green3.gif") left top repeat;}
+.btn_wrap.bgcolor_yellow {background: url("https://www.imnd.or.kr/images/user/common/bg_btn_yellow.gif") left top repeat;}
+.btn_wrap.bgcolor_purple {background: url("https://www.imnd.or.kr/images/user/common/bg_btn_purple.gif") left top repeat;}
+.btn_reload {background:url("https://www.imnd.or.kr/images/user/common/bull_reload.png") 15px center no-repeat;background-size:14px 14px;line-height:150%;vertical-align:bottom;display:inline-block;padding:5px 19px 6px 34px;border:1px solid #a17cc5;font-size:14px;color:#a17cc5;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-.btn_search_small {background:url("../../images/user/common/btn_search.png") 17px center no-repeat;background-size:14px 14px;line-height:150%;vertical-align:bottom;display:inline-block;padding:6px 20px 7px 35px;font-size:14px;color:#fff;
+.btn_search_small {background:url("https://www.imnd.or.kr/images/user/common/btn_search.png") 17px center no-repeat;background-size:14px 14px;line-height:150%;vertical-align:bottom;display:inline-block;padding:6px 20px 7px 35px;font-size:14px;color:#fff;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-.btn_check_small {background:url("../../images/user/common/btn_check2.png") 17px center no-repeat;background-size:14px auto;line-height:150%;vertical-align:bottom;display:inline-block;padding:6px 20px 7px 35px;font-size:14px;color:#fff;
+.btn_check_small {background:url("https://www.imnd.or.kr/images/user/common/btn_check2.png") 17px center no-repeat;background-size:14px auto;line-height:150%;vertical-align:bottom;display:inline-block;padding:6px 20px 7px 35px;font-size:14px;color:#fff;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-.btn_check2_small {background:url("../../images/user/common/bull_x4.png") 17px center no-repeat;background-size:11px auto;line-height:150%;vertical-align:bottom;display:inline-block;padding:5px 19px 6px 34px;border:1px solid #a17cc5;font-size:14px;color:#a17cc5;
+.btn_check2_small {background:url("https://www.imnd.or.kr/images/user/common/bull_x4.png") 17px center no-repeat;background-size:11px auto;line-height:150%;vertical-align:bottom;display:inline-block;padding:5px 19px 6px 34px;border:1px solid #a17cc5;font-size:14px;color:#a17cc5;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-.btn_search2 {background:url("../../images/user/common/btn_search.png") 27px center no-repeat;background-size:14px 14px;line-height:150%;vertical-align:bottom;display:inline-block;width:105px;padding:9px 10px 11px 25px;height:38px;font-size:14px;color:#fff;
+.btn_search2 {background:url("https://www.imnd.or.kr/images/user/common/btn_search.png") 27px center no-repeat;background-size:14px 14px;line-height:150%;vertical-align:bottom;display:inline-block;width:105px;padding:9px 10px 11px 25px;height:38px;font-size:14px;color:#fff;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-.btn_search3 {background:url("../../images/user/common/btn_search.png") 15px center no-repeat;background-size:14px 14px;line-height:150%;vertical-align:bottom;display:inline-block;padding:6px 15px 5px 30px;font-size:14px;color:#fff;
+.btn_search3 {background:url("https://www.imnd.or.kr/images/user/common/btn_search.png") 15px center no-repeat;background-size:14px 14px;line-height:150%;vertical-align:bottom;display:inline-block;padding:6px 15px 5px 30px;font-size:14px;color:#fff;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-.btn_search4 {background:url("../../images/user/common/btn_search3.png") 20px center no-repeat;border:1px solid #6da6df;background-size:14px 14px;line-height:150%;vertical-align:bottom;display:inline-block;padding:8px 20px 7px 40px;font-size:14px;color:#6da6df;height:37px;
+.btn_search4 {background:url("https://www.imnd.or.kr/images/user/common/btn_search3.png") 20px center no-repeat;border:1px solid #6da6df;background-size:14px 14px;line-height:150%;vertical-align:bottom;display:inline-block;padding:8px 20px 7px 40px;font-size:14px;color:#6da6df;height:37px;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-.btn_search5 {background:url("../../images/user/common/btn_search.png") 20px center no-repeat;background-size:14px 14px;line-height:150%;vertical-align:middle;display:inline-block;padding:8px 18px 11px 35px;font-size:16px;color:#fff;
+.btn_search5 {background:url("https://www.imnd.or.kr/images/user/common/btn_search.png") 20px center no-repeat;background-size:14px 14px;line-height:150%;vertical-align:middle;display:inline-block;padding:8px 18px 11px 35px;font-size:16px;color:#fff;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;margin-right:10px;
 }
-.btn_check {background:url("../../images/user/common/btn_check.png") 20px center no-repeat;border:1px solid #6da6df;background-size:17px 12px;line-height:150%;vertical-align:bottom;display:inline-block;padding:8px 20px 7px 42px;font-size:14px;color:#6da6df;height:37px;
+.btn_check {background:url("https://www.imnd.or.kr/images/user/common/btn_check.png") 20px center no-repeat;border:1px solid #6da6df;background-size:17px 12px;line-height:150%;vertical-align:bottom;display:inline-block;padding:8px 20px 7px 42px;font-size:14px;color:#6da6df;height:37px;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-.download01 {background:url("../../images/user/common/bull_download.png") 20px center no-repeat;background-size:10px 14px;line-height:150%;vertical-align:middle;display:inline-block;padding:8px 18px 11px 35px;font-size:12px;color:#fff;
+.download01 {background:url("https://www.imnd.or.kr/images/user/common/bull_download.png") 20px center no-repeat;background-size:10px 14px;line-height:150%;vertical-align:middle;display:inline-block;padding:8px 18px 11px 35px;font-size:12px;color:#fff;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-.download02 {background:url("../../images/user/common/bull_download.png") 20px center no-repeat;background-size:10px 14px;line-height:150%;vertical-align:middle;display:inline-block;padding:8px 18px 11px 35px;font-size:16px;color:#fff;
+.download02 {background:url("https://www.imnd.or.kr/images/user/common/bull_download.png") 20px center no-repeat;background-size:10px 14px;line-height:150%;vertical-align:middle;display:inline-block;padding:8px 18px 11px 35px;font-size:16px;color:#fff;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-.download03 {background: url("../../images/user/common/bull_download.png") 20px center no-repeat;background-size:10px 14px;line-height:150%;vertical-align:middle;display:inline-block;padding:8px 20px 11px 35px;font-size:16px;color:#fff;
+.download03 {background: url("https://www.imnd.or.kr/images/user/common/bull_download.png") 20px center no-repeat;background-size:10px 14px;line-height:150%;vertical-align:middle;display:inline-block;padding:8px 20px 11px 35px;font-size:16px;color:#fff;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-.download04 {background: url("../../images/user/common/bull_arrow2.png") 135px center no-repeat;min-width:250px;background-size:10px 14px;line-height:150%;vertical-align:middle;display:inline-block;padding:8px 35px 11px 15px;text-align:left;font-size:16px;color:#fff;
+.download04 {background: url("https://www.imnd.or.kr/images/user/common/bull_arrow2.png") 135px center no-repeat;min-width:250px;background-size:10px 14px;line-height:150%;vertical-align:middle;display:inline-block;padding:8px 35px 11px 15px;text-align:left;font-size:16px;color:#fff;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-.download05 {background: url("../../images/user/common/bull_arrow2.png") 222px center no-repeat;min-width:250px;background-size:10px 14px;line-height:150%;vertical-align:middle;display:inline-block;padding:8px 35px 11px 15px;text-align:left;font-size:16px;color:#fff;
+.download05 {background: url("https://www.imnd.or.kr/images/user/common/bull_arrow2.png") 222px center no-repeat;min-width:250px;background-size:10px 14px;line-height:150%;vertical-align:middle;display:inline-block;padding:8px 35px 11px 15px;text-align:left;font-size:16px;color:#fff;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-.download06 {background: url("../../images/user/common/btn_search.png") 20px center no-repeat;background-size:10px 14px;line-height:150%;vertical-align:middle;display:inline-block;padding:8px 18px 11px 35px;font-size:12px;color:#fff;min-width:172px;
+.download06 {background: url("https://www.imnd.or.kr/images/user/common/btn_search.png") 20px center no-repeat;background-size:10px 14px;line-height:150%;vertical-align:middle;display:inline-block;padding:8px 18px 11px 35px;font-size:12px;color:#fff;min-width:172px;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-.btn_tb_type01 {float:left;display:inline-block;margin:2px;padding:3px 8px 3px 25px;border:1px solid #939598;color:#939598;background:url("../../images/user/common/btn_tb_type01.png") 8px center no-repeat;}
-.btn_tb_type02 {float:left;display:inline-block;margin:2px;padding:3px 8px 3px 25px;border:1px solid #ec6791;color:#ec6791;background:url("../../images/user/common/btn_tb_type02.png") 10px center no-repeat;}
-.card_btn01_wrap {display:inline-block;background:url("../../images/user/common/bg_btn_sky.gif") left top repeat;margin:4px 0;margin-right:10px;}
-.card_btn01 {background:url("../../images/user/common/bull_pen.png") 53px center no-repeat;line-height:150%;vertical-align:middle;display:inline-block;padding:11px 18px 15px 80px;font-size:16px;color:#fff;min-width:195px;
+.btn_tb_type01 {float:left;display:inline-block;margin:2px;padding:3px 8px 3px 25px;border:1px solid #939598;color:#939598;background:url("https://www.imnd.or.kr/images/user/common/btn_tb_type01.png") 8px center no-repeat;}
+.btn_tb_type02 {float:left;display:inline-block;margin:2px;padding:3px 8px 3px 25px;border:1px solid #ec6791;color:#ec6791;background:url("https://www.imnd.or.kr/images/user/common/btn_tb_type02.png") 10px center no-repeat;}
+.card_btn01_wrap {display:inline-block;background:url("https://www.imnd.or.kr/images/user/common/bg_btn_sky.gif") left top repeat;margin:4px 0;margin-right:10px;}
+.card_btn01 {background:url("https://www.imnd.or.kr/images/user/common/bull_pen.png") 53px center no-repeat;line-height:150%;vertical-align:middle;display:inline-block;padding:11px 18px 15px 80px;font-size:16px;color:#fff;min-width:195px;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-.card_btn02_wrap {display:inline-block;background:url("../../images/user/common/bg_btn_blue.gif") left top repeat;margin:4px 0;}
-.card_btn02 {background:url("../../images/user/common/btn_search.png") 42px center no-repeat;line-height:150%;vertical-align:middle;display:inline-block;padding:11px 18px 15px 66px;font-size:16px;color:#fff;min-width:195px;
+.card_btn02_wrap {display:inline-block;background:url("https://www.imnd.or.kr/images/user/common/bg_btn_blue.gif") left top repeat;margin:4px 0;}
+.card_btn02 {background:url("https://www.imnd.or.kr/images/user/common/btn_search.png") 42px center no-repeat;line-height:150%;vertical-align:middle;display:inline-block;padding:11px 18px 15px 66px;font-size:16px;color:#fff;min-width:195px;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-.card_btn03_wrap {display:inline-block;background:url("../../images/user/common/bg_btn_sky.gif") left top repeat;margin:4px 0;}
-.card_btn03 {background:url("../../images/user/common/bull_download.png") 20px center no-repeat;line-height:150%;vertical-align:middle;display:inline-block;padding:11px 25px 15px 40px;font-size:16px;color:#fff;
+.card_btn03_wrap {display:inline-block;background:url("https://www.imnd.or.kr/images/user/common/bg_btn_sky.gif") left top repeat;margin:4px 0;}
+.card_btn03 {background:url("https://www.imnd.or.kr/images/user/common/bull_download.png") 20px center no-repeat;line-height:150%;vertical-align:middle;display:inline-block;padding:11px 25px 15px 40px;font-size:16px;color:#fff;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-.btn_go01_wrap {display:inline-block;background:url("../../images/user/common/bg_btn_white.gif") left top repeat;margin:4px 0;}
-.btn_go01_wrap .btn_go01 {border:1px solid #3886d3;color:#3886d3;background:url("../../images/user/common/btn_go01.png") 40px center no-repeat;line-height:150%;vertical-align:middle;display:inline-block;padding:10px 54px 14px 89px;font-size:16px;margin-right:10px;
+.btn_go01_wrap {display:inline-block;background:url("https://www.imnd.or.kr/images/user/common/bg_btn_white.gif") left top repeat;margin:4px 0;}
+.btn_go01_wrap .btn_go01 {border:1px solid #3886d3;color:#3886d3;background:url("https://www.imnd.or.kr/images/user/common/btn_go01.png") 40px center no-repeat;line-height:150%;vertical-align:middle;display:inline-block;padding:10px 54px 14px 89px;font-size:16px;margin-right:10px;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-.btn_go02_wrap {display:inline-block;background:url("../../images/user/common/bg_btn_sky.gif") left top repeat;margin:4px 0;}
-.btn_go02_wrap .btn_go02 {background:url("../../images/user/common/btn_go02.png") 40px center no-repeat;line-height:150%;vertical-align:middle;display:inline-block;padding:11px 55px 15px 90px;font-size:16px;color:#fff;
+.btn_go02_wrap {display:inline-block;background:url("https://www.imnd.or.kr/images/user/common/bg_btn_sky.gif") left top repeat;margin:4px 0;}
+.btn_go02_wrap .btn_go02 {background:url("https://www.imnd.or.kr/images/user/common/btn_go02.png") 40px center no-repeat;line-height:150%;vertical-align:middle;display:inline-block;padding:11px 55px 15px 90px;font-size:16px;color:#fff;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
 
 /* mypage */
-.title_mypage {padding:40px 3px 0;color:#252525;font-weight:400;padding-left:25px;font-size:24px;background:url("../../images/user/common/bull_mypage_tit.png") 0 50px no-repeat;}
+.title_mypage {padding:40px 3px 0;color:#252525;font-weight:400;padding-left:25px;font-size:24px;background:url("https://www.imnd.or.kr/images/user/common/bull_mypage_tit.png") 0 50px no-repeat;}
 .txt_mypage01 {font-size:20px;color:#252525;}
 .txt_mypage01 span {font-size:20px;}
 .txt_mypage02 {font-size:16px;color:#666;}
-.txt_mypage03 {color:#666;padding:5px;padding-left:20px;font-size:16px;background:url("../../images/user/common/bull_mypage_tit2.png") 0 10px no-repeat;}
+.txt_mypage03 {color:#666;padding:5px;padding-left:20px;font-size:16px;background:url("https://www.imnd.or.kr/images/user/common/bull_mypage_tit2.png") 0 10px no-repeat;}
 .txt_mypage03 .bg_red {display:inline-block;color:#fff;background-color:red;padding:0 5px;}
 .txt_mypage03 .txt_link {text-decoration:underline;}
 .txt_mypage03 .txt_number {font-size:20px;}
 .txt_mypage04 {font-size:20px;}
 .txt_mypage04 span {font-size:20px;}
-.coution_list li {padding:3px 5px;padding-left:15px;background:url("../../images/user/common/bull_dot2.png") left 13px no-repeat;font-size:16px;color:#252525;}
+.coution_list li {padding:3px 5px;padding-left:15px;background:url("https://www.imnd.or.kr/images/user/common/bull_dot2.png") left 13px no-repeat;font-size:16px;color:#252525;}
 .coution_list.type02.space_top {margin-top:20px;padding-bottom:20px;}
-.coution_list.type02 li {background:url("../../images/user/common/bull_dot3.png") left 13px no-repeat;}
-.coution_list.type03 li {background:url("../../images/user/common/bull_dot4.png") left 13px no-repeat;}
+.coution_list.type02 li {background:url("https://www.imnd.or.kr/images/user/common/bull_dot3.png") left 13px no-repeat;}
+.coution_list.type03 li {background:url("https://www.imnd.or.kr/images/user/common/bull_dot4.png") left 13px no-repeat;}
 .coution_list li .import_area2 {margin-top:0;}
 .coution_list .coution_list2 li {background-image:none;padding-left:0;}
 
@@ -608,7 +608,7 @@ table .bull_box_all .txt_middle.has_bull {padding-left:5px;}
 .member_box .member_input label.txt_label {font-size:16px;min-width:70px;display:inline-block;color:#252525;}
 .member_box.type02 .member_input label.txt_label {font-size:16px;min-width:100px;display:inline-block;color:#252525;}
 .member_box.type02 .member_input label:first-child.txt_label {padding-left:20px;}
-.member_box.type02 .member_input label.txt_label.import {background:url("../../images/user/common/bull_import.png") left 8px no-repeat;}
+.member_box.type02 .member_input label.txt_label.import {background:url("https://www.imnd.or.kr/images/user/common/bull_import.png") left 8px no-repeat;}
 .member_box .member_input .txtbox {width:430px;font-size:16px;padding:6px 15px;border:1px solid #d2d2d2;vertical-align:middle;height:37px;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -676,8 +676,8 @@ table .bull_box_all .txt_middle.has_bull {padding-left:5px;}
 .step_area img {width:100%;height:auto;}
 .radio_area input[type="radio"] {display:none;vertical-align:middle;}
 .radio_area input[type="radio"] + label {color:#666;vertical-align:middle;width:24px;height:24px;}
-.radio_area input[type="radio"] + label span {display:inline-block;width:24px;height:24px;margin:-2px 10px 0 0;vertical-align:middle;border:none;background:url("../../images/user/common/btn_radio.png") left top no-repeat;cursor:pointer;}
-.radio_area input[type="radio"]:checked + label span {background:url("../../images/user/common/btn_radio.png") left -24px no-repeat;vertical-align:middle;}
+.radio_area input[type="radio"] + label span {display:inline-block;width:24px;height:24px;margin:-2px 10px 0 0;vertical-align:middle;border:none;background:url("https://www.imnd.or.kr/images/user/common/btn_radio.png") left top no-repeat;cursor:pointer;}
+.radio_area input[type="radio"]:checked + label span {background:url("https://www.imnd.or.kr/images/user/common/btn_radio.png") left -24px no-repeat;vertical-align:middle;}
 .scroll_box {margin-top:15px;border:1px solid #bbb;padding:25px 30px;font-size:16px;color:#666;overflow:hidden;overflow-y:auto;height:250px;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -741,11 +741,11 @@ table .bull_box_all .txt_middle.has_bull {padding-left:5px;}
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-.btn_blank01 {display:inline-block;padding:3px 10px 4px 28px;font-size:16px;border:1px solid #a17cc5;color:#a17cc5;background:url("../../images/user/common/bull_blank01.png") 10px center no-repeat;background-size:12px auto;}
+.btn_blank01 {display:inline-block;padding:3px 10px 4px 28px;font-size:16px;border:1px solid #a17cc5;color:#a17cc5;background:url("https://www.imnd.or.kr/images/user/common/bull_blank01.png") 10px center no-repeat;background-size:12px auto;}
 .bull_calendar {display:inline-block;vertical-align:middle;margin-left:5px;}
 
 /* sub01 */
-.sub01_title01 {text-align:center;font-size:42px;font-weight:400;padding-bottom:15px;margin-bottom:15px;background:url("../../images/user/common/bg_tit_line01.jpg") center bottom no-repeat;}
+.sub01_title01 {text-align:center;font-size:42px;font-weight:400;padding-bottom:15px;margin-bottom:15px;background:url("https://www.imnd.or.kr/images/user/common/bg_tit_line01.jpg") center bottom no-repeat;}
 .sub01_title02 {font-size:16px;color:#666;padding-top:30px;letter-spacing:-1px;}
 .sub01_title02 .txt_big {font-size:28px;}
 .sub01_title03 {font-size:16px;color:#666;}
@@ -756,15 +756,15 @@ table .bull_box_all .txt_middle.has_bull {padding-left:5px;}
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-.sub01_bloon_all .sub01_bloon01 {background:url("../../images/user/common/bg_box01.png") no-repeat;padding:185px 88px 0;margin-top:95px;}
+.sub01_bloon_all .sub01_bloon01 {background:url("https://www.imnd.or.kr/images/user/common/bg_box01.png") no-repeat;padding:185px 88px 0;margin-top:95px;}
 .sub01_bloon_all .sub01_bloon01 .bloon_tit {font-size:28px;text-align:center;color:#14809b;margin-bottom:18px;}
 .sub01_bloon_all .sub01_bloon01 .bloon_txt {font-size:16px;letter-spacing:-1px;}
 .sub01_bloon_all .sub01_bloon01 .bloon_txt span {font-size:16px;letter-spacing:-1px;}
-.sub01_bloon_all .sub01_bloon02 {position:absolute;left:50%;margin-left:-210px;top:0px;background:url("../../images/user/common/bg_box02.png") no-repeat;z-index:1;padding:185px 88px 0;}
+.sub01_bloon_all .sub01_bloon02 {position:absolute;left:50%;margin-left:-210px;top:0px;background:url("https://www.imnd.or.kr/images/user/common/bg_box02.png") no-repeat;z-index:1;padding:185px 88px 0;}
 .sub01_bloon_all .sub01_bloon02 .bloon_tit {font-size:28px;text-align:center;color:#ffea00;margin-bottom:18px;}
 .sub01_bloon_all .sub01_bloon02 .bloon_txt {font-size:16px;letter-spacing:-1px;}
 .sub01_bloon_all .sub01_bloon02 .bloon_txt span {font-size:16px;letter-spacing:-1px;}
-.sub01_bloon_all .sub01_bloon03 {position:absolute;right:0;top:95px;background:url("../../images/user/common/bg_box03.png") no-repeat;padding:185px 88px 0;}
+.sub01_bloon_all .sub01_bloon03 {position:absolute;right:0;top:95px;background:url("https://www.imnd.or.kr/images/user/common/bg_box03.png") no-repeat;padding:185px 88px 0;}
 .sub01_bloon_all .sub01_bloon03 .bloon_tit {font-size:28px;text-align:center;color:#14809b;margin-bottom:18px;}
 .sub01_bloon_all .sub01_bloon03 .bloon_txt {font-size:16px;letter-spacing:-1px;}
 .sub01_bloon_all .sub01_bloon03 .bloon_txt span {font-size:16px;letter-spacing:-1px;}
@@ -805,9 +805,9 @@ table .ol_list01 {padding-top:0;padding-bottom:0;}
 .bloon_dl_box_all2 dd.no_top {padding-top:0;}
 .bloon_dl_box_all2 .btn_right_area {position:absolute;right:0;top:40px;padding:0;}
 .count_list01 {padding:28px 5px 28px 70px;font-size:16px;color:#252525;margin-top:10px;}
-.count_list01.num01 {background:url("../../images/user/common/bg_bloon01.png") left 12px no-repeat;}
-.count_list01.num02 {background:url("../../images/user/common/bg_bloon02.png") left 12px no-repeat;}
-.count_list01.num03 {background:url("../../images/user/common/bg_bloon03.png") left 12px no-repeat;}
+.count_list01.num01 {background:url("https://www.imnd.or.kr/images/user/common/bg_bloon01.png") left 12px no-repeat;}
+.count_list01.num02 {background:url("https://www.imnd.or.kr/images/user/common/bg_bloon02.png") left 12px no-repeat;}
+.count_list01.num03 {background:url("https://www.imnd.or.kr/images/user/common/bg_bloon03.png") left 12px no-repeat;}
 .img_area {margin-top:20px;}
 .box33 {overflow:hidden;}
 .box33 li {width:33.3%;float:left;text-align:center;padding:20px;font-size:16px;
@@ -826,21 +826,21 @@ table .ol_list01 {padding-top:0;padding-bottom:0;}
 .pravacy_ol_list2 > li {font-size:16px;padding-top:5px;font-weight:300;}
 .move_btn_area {margin-top:30px;}
 .move_btn_list {overflow:hidden;border-right:1px solid #97ce59;border-bottom:1px solid #14809b;}
-.move_btn_list li {width:50%;float:left;border-left:1px solid #14809b;border-top:1px solid #14809b;background:url("../../images/user/common/bg_btn_white.gif") left top repeat;
+.move_btn_list li {width:50%;float:left;border-left:1px solid #14809b;border-top:1px solid #14809b;background:url("https://www.imnd.or.kr/images/user/common/bg_btn_white.gif") left top repeat;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-.move_btn_list li a {color:#14809b;display:block;padding:11px 18px 13px;background:url("../../images/user/common/bull_arrow4_off.png") 95% center no-repeat;font-size:16px;}
-.move_btn_list li.active {background:url("../../images/user/common/bg_btn_green.gif") left top repeat;}
-.move_btn_list li.active a {color:#fff;background:url("../../images/user/common/bull_arrow4_on.png") 95% center no-repeat;}
-.move_btn_list li.last {color:#fff;background:url("../../images/user/common/bg_btn_green2.gif") left top repeat;}
-.move_btn_list li.last a {color:#fff;padding-left:40px;background:url("../../images/user/common/bull_download.png") 20px center no-repeat;}
+.move_btn_list li a {color:#14809b;display:block;padding:11px 18px 13px;background:url("https://www.imnd.or.kr/images/user/common/bull_arrow4_off.png") 95% center no-repeat;font-size:16px;}
+.move_btn_list li.active {background:url("https://www.imnd.or.kr/images/user/common/bg_btn_green.gif") left top repeat;}
+.move_btn_list li.active a {color:#fff;background:url("https://www.imnd.or.kr/images/user/common/bull_arrow4_on.png") 95% center no-repeat;}
+.move_btn_list li.last {color:#fff;background:url("https://www.imnd.or.kr/images/user/common/bg_btn_green2.gif") left top repeat;}
+.move_btn_list li.last a {color:#fff;padding-left:40px;background:url("https://www.imnd.or.kr/images/user/common/bull_download.png") 20px center no-repeat;}
 
 /* sub03 */
 .card_box_wrap {margin-top:30px;}
 .card_box_all {overflow:hidden;padding:40px;background-color:#efefef;}
-.card_box {float:left;padding-right:50px;margin-right:50px;background:url("../../images/user/common/bull_dotted.gif") right top repeat-y;}
+.card_box {float:left;padding-right:50px;margin-right:50px;background:url("https://www.imnd.or.kr/images/user/common/bull_dotted.gif") right top repeat-y;}
 .card_box.card_box_right {padding-right:0;margin-right:0;background-image:none;}
 .card_box ul li {text-align:center;margin-bottom:10px;font-size:16px;}
 .card_box ul li img {display:inline-block;box-shadow:6px 7px 9px 0 #b5b5b5;}
@@ -872,13 +872,13 @@ table .ol_list01 {padding-top:0;padding-bottom:0;}
 CHANGE
 _설문조사 디자인 변경 요청_제주환D
 .quiz_all {margin-top:30px;}
-.quiz_all .quiz_top {width:100%;background:url("../../images/user/common/bg_quiz_top.jpg") center top no-repeat;background-size:100% auto;padding:13% 0 5%;text-align:center;
+.quiz_all .quiz_top {width:100%;background:url("https://www.imnd.or.kr/images/user/common/bg_quiz_top.jpg") center top no-repeat;background-size:100% auto;padding:13% 0 5%;text-align:center;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
 .quiz_top .quiz_tit {font-size:20px;font-weight:400;color:#252525;}
-.quiz_all .quiz_top2 {width:100%;background:url("../../images/user/common/bg_quiz_top2.jpg") center top no-repeat;background-size:100% auto;padding:2.7% 14% 3.2%;
+.quiz_all .quiz_top2 {width:100%;background:url("https://www.imnd.or.kr/images/user/common/bg_quiz_top2.jpg") center top no-repeat;background-size:100% auto;padding:2.7% 14% 3.2%;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
@@ -886,14 +886,14 @@ _설문조사 디자인 변경 요청_제주환D
 .quiz_top2 .quiz_tit2 {font-size:16px;font-weight:400;color:#666;}
 .quiz_top2 .quiz_tit2 span {font-size:20px;}
 
-.quiz_all .quiz_con  {width:100%;background:url("../../images/user/common/bg_quiz_con.jpg") repeat-y;min-height:800px;background-size:100% auto;padding:2.7% 12% 3.2%;
+.quiz_all .quiz_con  {width:100%;background:url("https://www.imnd.or.kr/images/user/common/bg_quiz_con.jpg") repeat-y;min-height:800px;background-size:100% auto;padding:2.7% 12% 3.2%;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-.quiz_all .quiz_bottom  {width:100%;background:url("../../images/user/common/bg_quiz_bottom.jpg") center top no-repeat;background-size:100% auto;min-height:60px;}
+.quiz_all .quiz_bottom  {width:100%;background:url("https://www.imnd.or.kr/images/user/common/bg_quiz_bottom.jpg") center top no-repeat;background-size:100% auto;min-height:60px;}
 .quiz_area {position:relative;margin-bottom:30px;}
-.quiz_area .quiz_num {position:absolute;top:0;left:0;width:45px;height:48px;color:#fff;text-align:center;font-size:22px;padding:5px 0;background:url("../../images/user/common/bg_quiz_num.png") no-repeat;
+.quiz_area .quiz_num {position:absolute;top:0;left:0;width:45px;height:48px;color:#fff;text-align:center;font-size:22px;padding:5px 0;background:url("https://www.imnd.or.kr/images/user/common/bg_quiz_num.png") no-repeat;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
@@ -902,28 +902,28 @@ _설문조사 디자인 변경 요청_제주환D
 .quiz_area dt img,.quiz_area dd img {max-width:100%;height:auto;}
 .quiz_area dd {padding-left:54px;font-size:16px;margin-bottom:15px;}
  */
-.quiz_all {margin-top:30px;background:url("../../images/user/common/bg_quiz_con.jpg") repeat-y;background-size:100% auto;}
-.quiz_all .quiz_top {width:100%;background:url("../../images/user/common/bg_quiz_top.jpg") center top no-repeat;background-size:100% auto;padding:5% 0 5%;text-align:center;
+.quiz_all {margin-top:30px;background:url("https://www.imnd.or.kr/images/user/common/bg_quiz_con.jpg") repeat-y;background-size:100% auto;}
+.quiz_all .quiz_top {width:100%;background:url("https://www.imnd.or.kr/images/user/common/bg_quiz_top.jpg") center top no-repeat;background-size:100% auto;padding:5% 0 5%;text-align:center;
  -webkit-box-sizing: border-box;
  -moz-box-sizing: border-box;
  box-sizing: border-box;
 }
 .quiz_top .quiz_tit {font-size:26px;font-weight:400;color:#252525;}
-.quiz_all .quiz_top2 {width:90%;background:url("../../images/user/common/bg_quiz_lineTop.gif") left top repeat-x;background-size:auto auto;padding:;margin:0 auto;
+.quiz_all .quiz_top2 {width:90%;background:url("https://www.imnd.or.kr/images/user/common/bg_quiz_lineTop.gif") left top repeat-x;background-size:auto auto;padding:;margin:0 auto;
  -webkit-box-sizing: border-box;
  -moz-box-sizing: border-box;
  box-sizing: border-box;
 }
-.quiz_top2 .quiz_tit2 {font-size:16px;font-weight:400;color:#666;background:url("../../images/user/common/bg_quiz_line.gif") left bottom repeat-x;padding:3% 5% 3%;}
+.quiz_top2 .quiz_tit2 {font-size:16px;font-weight:400;color:#666;background:url("https://www.imnd.or.kr/images/user/common/bg_quiz_line.gif") left bottom repeat-x;padding:3% 5% 3%;}
 .quiz_top2 .quiz_tit2 span {font-size:20px;}
 
-.quiz_all .quiz_con  {width:100%;background:url("../../images/user/common/bg_quiz_con.jpg") repeat-y;min-height:800px;background-size:100% auto;padding:2.7% 5% 3.2%;
+.quiz_all .quiz_con  {width:100%;background:url("https://www.imnd.or.kr/images/user/common/bg_quiz_con.jpg") repeat-y;min-height:800px;background-size:100% auto;padding:2.7% 5% 3.2%;
  -webkit-box-sizing: border-box;
  -moz-box-sizing: border-box;
  box-sizing: border-box;
 }
 
-.quiz_all .quiz_bottom  {width:100%;background:url("../../images/user/common/bg_quiz_bottom.jpg") center top no-repeat;background-size:100% auto;min-height:60px;}
+.quiz_all .quiz_bottom  {width:100%;background:url("https://www.imnd.or.kr/images/user/common/bg_quiz_bottom.jpg") center top no-repeat;background-size:100% auto;min-height:60px;}
 .quiz_area {position:relative;margin-bottom:30px;}
 .quiz_area .quiz_num {position:absolute;top:0;left:0;width:45px;height:48px;color:;text-align:center;font-size:18px;padding:6px 0;background:;
  -webkit-box-sizing: border-box;
@@ -966,22 +966,22 @@ _설문조사 디자인 변경 요청_제주환D
 .map_txt_box .map_txt_box_left {width:50%;float:left;}
 .map_txt_box .map_txt_box_right {width:50%;float:left;}
 .bull_map_txt {padding:10px 10px 10px 45px;font-size:16px;margin-top:10px;}
-.bull_map_txt.bull_map01 {background:url("../../images/user/common/bull_map01.jpg") 3px 9px no-repeat;}
-.bull_map_txt.bull_map02 {background:url("../../images/user/common/bull_map02.jpg") 3px 9px no-repeat;}
-.bull_map_txt.bull_map03 {background:url("../../images/user/common/bull_map03.jpg") 3px 9px no-repeat;}
-.bull_map_txt.bull_map04 {background:url("../../images/user/common/bull_map04.jpg") 3px 9px no-repeat;}
+.bull_map_txt.bull_map01 {background:url("https://www.imnd.or.kr/images/user/common/bull_map01.jpg") 3px 9px no-repeat;}
+.bull_map_txt.bull_map02 {background:url("https://www.imnd.or.kr/images/user/common/bull_map02.jpg") 3px 9px no-repeat;}
+.bull_map_txt.bull_map03 {background:url("https://www.imnd.or.kr/images/user/common/bull_map03.jpg") 3px 9px no-repeat;}
+.bull_map_txt.bull_map04 {background:url("https://www.imnd.or.kr/images/user/common/bull_map04.jpg") 3px 9px no-repeat;}
 
 @media all and (max-width: 1400px){
 
 
 }
 @media all and (max-width:768px){
-	.page_title,.page_title.pc_only {display:block !important;font-size:30px;margin:10px 0 20px;}
+	.page_title,.page_title.pc_only {display:block !important;font-size:30px;margin:10px 0 20px;padding:0 20px;word-break: keep-all;letter-spacing: -0.05em;}
 	.sub_bg_box {display:none !important;}
 	.sub_title{float:left;font-size:18px;}
 	/*
 	.page_top .nav_area{position:relative;top:0;right:0;float:right;margin-top:7px;}
-	.page_top .nav_area li{margin-left:0;background:url("../../images/user/common/bull_bracket.png") 2px center no-repeat;}
+	.page_top .nav_area li{margin-left:0;background:url("https://www.imnd.or.kr/images/user/common/bull_bracket.png") 2px center no-repeat;}
 	.page_top .nav_area li a{padding:8px 5px;font-size:12px;}
 	.page_top .nav_area li .bull_home{padding:11px 5px 13px;width:13px;}
 	*/
@@ -996,54 +996,54 @@ _설문조사 디자인 변경 요청_제주환D
 CHANGE
 _mobile nav menu영역 제외 후 heigth 110=>70으로 변경
 */
-/* 	.sub_title {font-size:30px;padding-top:30px;text-align:center;background:url("../../images/user/common/bg_m_sub05.jpg") center top no-repeat;background-size:cover;width:100%;height:110px;color:#fff;} */
-/*	.sub_title {font-size:30px;padding-top:30px;text-align:center;background:url("../../images/user/common/bg_m_sub05.jpg") center top no-repeat;background-size:cover;width:100%;height:70px;color:#fff;}
-	.sub_title.type01 {background:url("../../images/user/common/bg_m_sub01.jpg") center top no-repeat;background-size:cover;}
-	.sub_title.type02 {background:url("../../images/user/common/bg_m_sub02.jpg") center top no-repeat;background-size:cover;}
-	.sub_title.type03 {background:url("../../images/user/common/bg_m_sub03.jpg") center top no-repeat;background-size:cover;}
-	.sub_title.type04 {background:url("../../images/user/common/bg_m_sub04.jpg") center top no-repeat;background-size:cover;}
-	.sub_title.type05 {background:url("../../images/user/common/bg_m_sub05.jpg") center top no-repeat;background-size:cover;}
-	.sub_title.type06 {background:url("../../images/user/common/bg_m_sub06.jpg") center top no-repeat;background-size:cover;}
-	.sub_title.type07 {background:url("../../images/user/common/bg_m_sub07.jpg") center top no-repeat;background-size:cover;}
-	.sub_title.type08 {background:url("../../images/user/common/bg_m_sub08.jpg") center top no-repeat;background-size:cover;}
+/* 	.sub_title {font-size:30px;padding-top:30px;text-align:center;background:url("https://www.imnd.or.kr/images/user/common/bg_m_sub05.jpg") center top no-repeat;background-size:cover;width:100%;height:110px;color:#fff;} */
+/*	.sub_title {font-size:30px;padding-top:30px;text-align:center;background:url("https://www.imnd.or.kr/images/user/common/bg_m_sub05.jpg") center top no-repeat;background-size:cover;width:100%;height:70px;color:#fff;}
+	.sub_title.type01 {background:url("https://www.imnd.or.kr/images/user/common/bg_m_sub01.jpg") center top no-repeat;background-size:cover;}
+	.sub_title.type02 {background:url("https://www.imnd.or.kr/images/user/common/bg_m_sub02.jpg") center top no-repeat;background-size:cover;}
+	.sub_title.type03 {background:url("https://www.imnd.or.kr/images/user/common/bg_m_sub03.jpg") center top no-repeat;background-size:cover;}
+	.sub_title.type04 {background:url("https://www.imnd.or.kr/images/user/common/bg_m_sub04.jpg") center top no-repeat;background-size:cover;}
+	.sub_title.type05 {background:url("https://www.imnd.or.kr/images/user/common/bg_m_sub05.jpg") center top no-repeat;background-size:cover;}
+	.sub_title.type06 {background:url("https://www.imnd.or.kr/images/user/common/bg_m_sub06.jpg") center top no-repeat;background-size:cover;}
+	.sub_title.type07 {background:url("https://www.imnd.or.kr/images/user/common/bg_m_sub07.jpg") center top no-repeat;background-size:cover;}
+	.sub_title.type08 {background:url("https://www.imnd.or.kr/images/user/common/bg_m_sub08.jpg") center top no-repeat;background-size:cover;}
 
 	.nav_area {display:none;}
-	.sub_bg_box {margin-bottom:0;padding:0;text-align:center;width:100%;height:100px;padding:25px 0 10px;background:url("../../images/user/common/sub_m_bg_box05.jpg") center no-repeat;background-size:cover;
+	.sub_bg_box {margin-bottom:0;padding:0;text-align:center;width:100%;height:100px;padding:25px 0 10px;background:url("https://www.imnd.or.kr/images/user/common/sub_m_bg_box05.jpg") center no-repeat;background-size:cover;
 		-webkit-box-sizing: border-box;
 		-moz-box-sizing: border-box;
 		box-sizing: border-box;
 	}
-	.sub_bg_box.sub_bg_box01 {padding:0;text-align:center;width:100%;height:100px;padding:25px 0 10px;background:url("../../images/user/common/sub_m_bg_box01.jpg") center no-repeat;background-size:cover;
+	.sub_bg_box.sub_bg_box01 {padding:0;text-align:center;width:100%;height:100px;padding:25px 0 10px;background:url("https://www.imnd.or.kr/images/user/common/sub_m_bg_box01.jpg") center no-repeat;background-size:cover;
 		-webkit-box-sizing: border-box;
 		-moz-box-sizing: border-box;
 		box-sizing: border-box;
 	}
-	.sub_bg_box.sub_bg_box02 {padding:0;text-align:center;width:100%;height:100px;padding:25px 0 10px;background:url("../../images/user/common/sub_m_bg_box02.jpg") center no-repeat;background-size:cover;
+	.sub_bg_box.sub_bg_box02 {padding:0;text-align:center;width:100%;height:100px;padding:25px 0 10px;background:url("https://www.imnd.or.kr/images/user/common/sub_m_bg_box02.jpg") center no-repeat;background-size:cover;
 		-webkit-box-sizing: border-box;
 		-moz-box-sizing: border-box;
 		box-sizing: border-box;
 	}
-	.sub_bg_box.sub_bg_box03 {padding:0;text-align:center;width:100%;height:100px;padding:25px 0 10px;background:url("../../images/user/common/sub_m_bg_box03.jpg") center no-repeat;background-size:cover;
+	.sub_bg_box.sub_bg_box03 {padding:0;text-align:center;width:100%;height:100px;padding:25px 0 10px;background:url("https://www.imnd.or.kr/images/user/common/sub_m_bg_box03.jpg") center no-repeat;background-size:cover;
 		-webkit-box-sizing: border-box;
 		-moz-box-sizing: border-box;
 		box-sizing: border-box;
 	}
-	.sub_bg_box.sub_bg_box04 {padding:0;text-align:center;width:100%;height:100px;padding:25px 0 10px;background:url("../../images/user/common/sub_m_bg_box04.jpg") center no-repeat;background-size:cover;
+	.sub_bg_box.sub_bg_box04 {padding:0;text-align:center;width:100%;height:100px;padding:25px 0 10px;background:url("https://www.imnd.or.kr/images/user/common/sub_m_bg_box04.jpg") center no-repeat;background-size:cover;
 		-webkit-box-sizing: border-box;
 		-moz-box-sizing: border-box;
 		box-sizing: border-box;
 	}
-	.sub_bg_box.sub_bg_box06 {padding:0;text-align:center;width:100%;height:100px;padding:25px 0 10px;background:url("../../images/user/common/sub_m_bg_box06.jpg") center no-repeat;background-size:cover;
+	.sub_bg_box.sub_bg_box06 {padding:0;text-align:center;width:100%;height:100px;padding:25px 0 10px;background:url("https://www.imnd.or.kr/images/user/common/sub_m_bg_box06.jpg") center no-repeat;background-size:cover;
 		-webkit-box-sizing: border-box;
 		-moz-box-sizing: border-box;
 		box-sizing: border-box;
 	}
-	.sub_bg_box.sub_bg_box07 {padding:0;text-align:center;width:100%;height:100px;padding:25px 0 10px;background:url("../../images/user/common/sub_m_bg_box07.jpg") center no-repeat;background-size:cover;
+	.sub_bg_box.sub_bg_box07 {padding:0;text-align:center;width:100%;height:100px;padding:25px 0 10px;background:url("https://www.imnd.or.kr/images/user/common/sub_m_bg_box07.jpg") center no-repeat;background-size:cover;
 		-webkit-box-sizing: border-box;
 		-moz-box-sizing: border-box;
 		box-sizing: border-box;
 	}
-	.sub_bg_box.sub_bg_box08 {padding:0;text-align:center;width:100%;height:100px;padding:25px 0 10px;background:url("../../images/user/common/sub_m_bg_box08.jpg") center no-repeat;background-size:cover;
+	.sub_bg_box.sub_bg_box08 {padding:0;text-align:center;width:100%;height:100px;padding:25px 0 10px;background:url("https://www.imnd.or.kr/images/user/common/sub_m_bg_box08.jpg") center no-repeat;background-size:cover;
 		-webkit-box-sizing: border-box;
 		-moz-box-sizing: border-box;
 		box-sizing: border-box;
@@ -1066,41 +1066,41 @@ _mobile nav menu영역 제외 후 heigth 110=>70으로 변경
 	#section6 .txt_bottom .txt_address, #section6 .txt_bottom .txt_copyright  {display:block;text-align:center;}
 
 	.dropdown dt a span {font-size:13px;}
-	.selectbox_all  {z-index:1;background:#d1ac43 url("../../images/user/common/m_navi_bg.png") left top no-repeat;background-size:auto 38px;padding-left:35px;opacity:0.9;z-index:10;}
+	.selectbox_all  {z-index:1;background:#d1ac43 url("https://www.imnd.or.kr/images/user/common/m_navi_bg.png") left top no-repeat;background-size:auto 38px;padding-left:35px;opacity:0.9;z-index:10;}
 	.selectbox_all .go_home {position:absolute;left:2px;top:2px;width:35px;height:35px;}
-	.selectbox_all.bg01 {background:#97ce59 url("../../images/user/common/m_navi_bg.png") left center no-repeat;background-size:auto 38px;padding-left:35px;}
-	.selectbox_all.bg01 .selectbox1 .dropdown dt {border-right:none;background:transparent url("../../images/user/common/m_navi_bg2.png") left top no-repeat;background-size:auto 100%;}
-	.selectbox_all.bg02 {background:#18aaae url("../../images/user/common/m_navi_bg.png") left center no-repeat;background-size:auto 38px;padding-left:35px;}
-	.selectbox_all.bg02 .selectbox1 .dropdown dt {border-right:none;background:transparent url("../../images/user/common/m_navi_bg2.png") left top no-repeat;background-size:auto 100%;}
-	.selectbox_all.bg03 {background:#3886d3 url("../../images/user/common/m_navi_bg.png") left center no-repeat;background-size:auto 38px;padding-left:35px;}
-	.selectbox_all.bg03 .selectbox1 .dropdown dt {border-right:none;background:transparent url("../../images/user/common/m_navi_bg2.png") left top no-repeat;background-size:auto 100%;}
-	.selectbox_all.bg04 {background:#a279c9 url("../../images/user/common/m_navi_bg.png") left center no-repeat;background-size:auto 38px;padding-left:35px;}
-	.selectbox_all.bg04 .selectbox1 .dropdown dt {border-right:none;background:transparent url("../../images/user/common/m_navi_bg2.png") left top no-repeat;background-size:auto 100%;}
-	.selectbox_all.bg05 {background:#d1ac43 url("../../images/user/common/m_navi_bg.png") left center no-repeat;background-size:auto 38px;padding-left:35px;}
-	.selectbox_all.bg05 .selectbox1 .dropdown dt {border-right:none;background:transparent url("../../images/user/common/m_navi_bg2.png") left top no-repeat;background-size:auto 100%;}
-	.selectbox_all.bg06 {background:#28a653 url("../../images/user/common/m_navi_bg.png") left center no-repeat;background-size:auto 38px;padding-left:35px;}
-	.selectbox_all.bg06 .selectbox1 .dropdown dt {border-right:none;background:transparent url("../../images/user/common/m_navi_bg2.png") left top no-repeat;background-size:auto 100%;}
-	.selectbox_all.bg07 {background:#3886d3 url("../../images/user/common/m_navi_bg.png") left center no-repeat;background-size:auto 38px;padding-left:35px;}
-	.selectbox_all.bg07 .selectbox1 .dropdown dt {border-right:none;background:transparent url("../../images/user/common/m_navi_bg2.png") left top no-repeat;background-size:auto 100%;}
-	.selectbox_all.bg08 {background:#3886d3 url("../../images/user/common/m_navi_bg.png") left center no-repeat;background-size:auto 38px;padding-left:35px;}
-	.selectbox_all.bg08 .selectbox1 .dropdown dt {border-right:none;background:transparent url("../../images/user/common/m_navi_bg2.png") left top no-repeat;background-size:auto 100%;}
+	.selectbox_all.bg01 {background:#97ce59 url("https://www.imnd.or.kr/images/user/common/m_navi_bg.png") left center no-repeat;background-size:auto 38px;padding-left:35px;}
+	.selectbox_all.bg01 .selectbox1 .dropdown dt {border-right:none;background:transparent url("https://www.imnd.or.kr/images/user/common/m_navi_bg2.png") left top no-repeat;background-size:auto 100%;}
+	.selectbox_all.bg02 {background:#18aaae url("https://www.imnd.or.kr/images/user/common/m_navi_bg.png") left center no-repeat;background-size:auto 38px;padding-left:35px;}
+	.selectbox_all.bg02 .selectbox1 .dropdown dt {border-right:none;background:transparent url("https://www.imnd.or.kr/images/user/common/m_navi_bg2.png") left top no-repeat;background-size:auto 100%;}
+	.selectbox_all.bg03 {background:#3886d3 url("https://www.imnd.or.kr/images/user/common/m_navi_bg.png") left center no-repeat;background-size:auto 38px;padding-left:35px;}
+	.selectbox_all.bg03 .selectbox1 .dropdown dt {border-right:none;background:transparent url("https://www.imnd.or.kr/images/user/common/m_navi_bg2.png") left top no-repeat;background-size:auto 100%;}
+	.selectbox_all.bg04 {background:#a279c9 url("https://www.imnd.or.kr/images/user/common/m_navi_bg.png") left center no-repeat;background-size:auto 38px;padding-left:35px;}
+	.selectbox_all.bg04 .selectbox1 .dropdown dt {border-right:none;background:transparent url("https://www.imnd.or.kr/images/user/common/m_navi_bg2.png") left top no-repeat;background-size:auto 100%;}
+	.selectbox_all.bg05 {background:#d1ac43 url("https://www.imnd.or.kr/images/user/common/m_navi_bg.png") left center no-repeat;background-size:auto 38px;padding-left:35px;}
+	.selectbox_all.bg05 .selectbox1 .dropdown dt {border-right:none;background:transparent url("https://www.imnd.or.kr/images/user/common/m_navi_bg2.png") left top no-repeat;background-size:auto 100%;}
+	.selectbox_all.bg06 {background:#28a653 url("https://www.imnd.or.kr/images/user/common/m_navi_bg.png") left center no-repeat;background-size:auto 38px;padding-left:35px;}
+	.selectbox_all.bg06 .selectbox1 .dropdown dt {border-right:none;background:transparent url("https://www.imnd.or.kr/images/user/common/m_navi_bg2.png") left top no-repeat;background-size:auto 100%;}
+	.selectbox_all.bg07 {background:#3886d3 url("https://www.imnd.or.kr/images/user/common/m_navi_bg.png") left center no-repeat;background-size:auto 38px;padding-left:35px;}
+	.selectbox_all.bg07 .selectbox1 .dropdown dt {border-right:none;background:transparent url("https://www.imnd.or.kr/images/user/common/m_navi_bg2.png") left top no-repeat;background-size:auto 100%;}
+	.selectbox_all.bg08 {background:#3886d3 url("https://www.imnd.or.kr/images/user/common/m_navi_bg.png") left center no-repeat;background-size:auto 38px;padding-left:35px;}
+	.selectbox_all.bg08 .selectbox1 .dropdown dt {border-right:none;background:transparent url("https://www.imnd.or.kr/images/user/common/m_navi_bg2.png") left top no-repeat;background-size:auto 100%;}
 	.selectbox1 {display:inline-block;float:left;min-width:150px;max-width:200px;}
 	.selectbox1 .dropdown {}
-	.selectbox1 .dropdown dt {border-right:none;background:#d1ac43 url("../../images/user/common/m_navi_bg2.png") left top no-repeat;background-size:auto 38px;}
-	.selectbox1 .dropdown dt a {background:transparent url("../../images/user/common/bull_tab_arrow_off.png") no-repeat scroll 95% center;padding:8px 22px 6px 25px;height:38px;}
+	.selectbox1 .dropdown dt {border-right:none;background:#d1ac43 url("https://www.imnd.or.kr/images/user/common/m_navi_bg2.png") left top no-repeat;background-size:auto 38px;}
+	.selectbox1 .dropdown dt a {background:transparent url("https://www.imnd.or.kr/images/user/common/bull_tab_arrow_off.png") no-repeat scroll 95% center;padding:8px 22px 6px 25px;height:38px;}
 	.selectbox1 .dropdown dt a span {color:#fff;}
-	.bg_tit_m {font-size:24px;font-weight:400;color:#252525;padding-bottom:10px;background:url("../../images/user/common/bg_tit_line05.jpg") center bottom no-repeat;background-size:25px auto;}
-	.sub_bg_box01 .bg_tit_m {font-size:24px;font-weight:400;color:#252525;padding-bottom:10px;background:url("../../images/user/common/bg_tit_line01.jpg") center bottom no-repeat;background-size:25px auto;}
-	.sub_bg_box02 .bg_tit_m {font-size:24px;font-weight:400;color:#252525;padding-bottom:10px;background:url("../../images/user/common/bg_tit_line02.jpg") center bottom no-repeat;background-size:25px auto;}
-	.sub_bg_box03 .bg_tit_m {font-size:24px;font-weight:400;color:#252525;padding-bottom:10px;background:url("../../images/user/common/bg_tit_line03.jpg") center bottom no-repeat;background-size:25px auto;}
-	.sub_bg_box04 .bg_tit_m {font-size:24px;font-weight:400;color:#252525;padding-bottom:10px;background:url("../../images/user/common/bg_tit_line04.jpg") center bottom no-repeat;background-size:25px auto;}
-	.sub_bg_box05 .bg_tit_m {font-size:24px;font-weight:400;color:#252525;padding-bottom:10px;background:url("../../images/user/common/bg_tit_line05.jpg") center bottom no-repeat;background-size:25px auto;}
-	.sub_bg_box06 .bg_tit_m {font-size:24px;font-weight:400;color:#252525;padding-bottom:10px;background:url("../../images/user/common/bg_tit_line06.jpg") center bottom no-repeat;background-size:25px auto;}
-	.sub_bg_box07 .bg_tit_m {font-size:24px;font-weight:400;color:#252525;padding-bottom:10px;background:url("../../images/user/common/bg_tit_line07.jpg") center bottom no-repeat;background-size:25px auto;}
-	.sub_bg_box08 .bg_tit_m {font-size:24px;font-weight:400;color:#252525;padding-bottom:10px;background:url("../../images/user/common/bg_tit_line08.jpg") center bottom no-repeat;background-size:25px auto;}
+	.bg_tit_m {font-size:24px;font-weight:400;color:#252525;padding-bottom:10px;background:url("https://www.imnd.or.kr/images/user/common/bg_tit_line05.jpg") center bottom no-repeat;background-size:25px auto;}
+	.sub_bg_box01 .bg_tit_m {font-size:24px;font-weight:400;color:#252525;padding-bottom:10px;background:url("https://www.imnd.or.kr/images/user/common/bg_tit_line01.jpg") center bottom no-repeat;background-size:25px auto;}
+	.sub_bg_box02 .bg_tit_m {font-size:24px;font-weight:400;color:#252525;padding-bottom:10px;background:url("https://www.imnd.or.kr/images/user/common/bg_tit_line02.jpg") center bottom no-repeat;background-size:25px auto;}
+	.sub_bg_box03 .bg_tit_m {font-size:24px;font-weight:400;color:#252525;padding-bottom:10px;background:url("https://www.imnd.or.kr/images/user/common/bg_tit_line03.jpg") center bottom no-repeat;background-size:25px auto;}
+	.sub_bg_box04 .bg_tit_m {font-size:24px;font-weight:400;color:#252525;padding-bottom:10px;background:url("https://www.imnd.or.kr/images/user/common/bg_tit_line04.jpg") center bottom no-repeat;background-size:25px auto;}
+	.sub_bg_box05 .bg_tit_m {font-size:24px;font-weight:400;color:#252525;padding-bottom:10px;background:url("https://www.imnd.or.kr/images/user/common/bg_tit_line05.jpg") center bottom no-repeat;background-size:25px auto;}
+	.sub_bg_box06 .bg_tit_m {font-size:24px;font-weight:400;color:#252525;padding-bottom:10px;background:url("https://www.imnd.or.kr/images/user/common/bg_tit_line06.jpg") center bottom no-repeat;background-size:25px auto;}
+	.sub_bg_box07 .bg_tit_m {font-size:24px;font-weight:400;color:#252525;padding-bottom:10px;background:url("https://www.imnd.or.kr/images/user/common/bg_tit_line07.jpg") center bottom no-repeat;background-size:25px auto;}
+	.sub_bg_box08 .bg_tit_m {font-size:24px;font-weight:400;color:#252525;padding-bottom:10px;background:url("https://www.imnd.or.kr/images/user/common/bg_tit_line08.jpg") center bottom no-repeat;background-size:25px auto;}
 
 	.selectbox1 .depth03 {border-top:1px solid #767676;}
-	.selectbox1 .depth03 li a {padding:3px 5px 3px 25px;background:#333 url("../../images/user/common/bull_dot.png") 18px center no-repeat;border-top:none;text-align:left;background-size:3px auto;color:#b7b7b7;}
+	.selectbox1 .depth03 li a {padding:3px 5px 3px 25px;background:#333 url("https://www.imnd.or.kr/images/user/common/bull_dot.png") 18px center no-repeat;border-top:none;text-align:left;background-size:3px auto;color:#b7b7b7;}
 	.selectbox1 .depth03 li a:hover, .selectbox1 .depth03 li a.active {background-color:#333;font-weight:400;color:#fff;}
 
 	.tab_area {background-image:none;margin-top:20px;
@@ -1217,7 +1217,7 @@ _mobile table devide 시 margin-top 제거
 	.tb02 td.answer_tit {background-position:11px center;padding-left:44px;background-size:28px auto;}
 	.tb03 th,.tb03 td {font-size:12px;padding:5px 2px;padding-left:18px;}
 	.tb03 td input {padding:2px 8px 3px;font-size:12px;}
-	.tb03 th.bull_import {background: url("../../images/user/common/bull_import.png") 3px 12px no-repeat;}
+	.tb03 th.bull_import {background: url("https://www.imnd.or.kr/images/user/common/bull_import.png") 3px 12px no-repeat;}
 	.tb04 th {padding:5px 2px;font-size:12px;}
 	.tb04 tr th.title {padding-left:2px;}
 	.tb04 td {padding:5px 2px;font-size:12px;}
@@ -1225,7 +1225,7 @@ _mobile table devide 시 margin-top 제거
 	.tb05 th {font-size:12px;padding:5px 2px;padding-left:20px;}
 	.tb05 td {font-size:12px;padding:5px 2px;}
 	.tb05 td input.txtbox {padding:2px 8px 3px;font-size:12px;min-height:26px;}
-	.tb05 th.bull_import {background:#f2f3f6 url("../../images/user/common/bull_import.png") 3px 12px no-repeat;}
+	.tb05 th.bull_import {background:#f2f3f6 url("https://www.imnd.or.kr/images/user/common/bull_import.png") 3px 12px no-repeat;}
 	.tb06 th {font-size:12px;padding:5px 4px;padding-left:5px;}
 	.tb06 td {font-size:12px;padding:5px 4px;}
 	.tb06 td .selectbox01 {width: 100%;padding:3px 8px 4px 2px;min-height:28px;font-size:12px;background-size:6px auto;background-position-x:97%;}
@@ -1262,14 +1262,14 @@ _mobile table devide 시 margin-top 제거
 	.btn_prev, .btn_next {font-size:11px;padding-left:0;padding-right:12px;background-size:8px auto;}
 
 /* CHANGE_20190218_이미지 사이즈 변경 요청_제주환D
-	.dl_box dt {padding:14px 10px 16px 25px;background:url("../../images/user/common/bull_q_m.png") 4px 18px no-repeat;background-size:22px 22px;}
+	.dl_box dt {padding:14px 10px 16px 25px;background:url("https://www.imnd.or.kr/images/user/common/bull_q_m.png") 4px 18px no-repeat;background-size:22px 22px;}
 	.dl_box dt .bull_box {left:35px;top:17px;font-size:12px;}
-	.dl_box dd {padding:14px 10px 14px 33px;background:#f7f7f8 url("../../images/user/common/bull_a_m.png") 4px 16px no-repeat;background-size:22px 22px;}
+	.dl_box dd {padding:14px 10px 14px 33px;background:#f7f7f8 url("https://www.imnd.or.kr/images/user/common/bull_a_m.png") 4px 16px no-repeat;background-size:22px 22px;}
  */
 	.dl_box dt {padding:14px 10px 16px 20px;background-position:10px center;background-size:13px auto;}
 	.dl_box dt .bull_box {left:30px;top:17px;font-size:12px;min-width:46px;}
 	.dl_box dd .tb01 tr td {font-size:12px;width:auto;}    /* 추가 */
-	.dl_box dd {padding:14px 10px 14px 33px;background:url("../../images/user/common/bull_a2.png") 10px 20px no-repeat;background-size:13px auto;}
+	.dl_box dd {padding:14px 10px 14px 33px;background:url("https://www.imnd.or.kr/images/user/common/bull_a2.png") 10px 20px no-repeat;background-size:13px auto;}
 
 	/* btn */
 	.btn_area {margin-top:20px;padding:0 10px;}
@@ -1313,8 +1313,8 @@ _mobile table devide 시 margin-top 제거
 	.download04 {padding:5px 5px 7px;padding-left:10px;padding-right:10px;background-position-x:100px;background-size:5px auto;font-size:12px;min-width:185px;}
 	.download05 {padding:5px 5px 7px;padding-left:10px;padding-right:10px;background-position-x:165px;background-size:5px auto;font-size:12px;min-width:185px;}
 	.download06 {padding:5px 5px 7px;padding-left:30px;padding-right:20px;background-position-x:15px;background-size:9px auto;font-size:12px;min-width:100px;}
-	.btn_go01_wrap .btn_go01 {color:#3886d3;background:url("../../images/user/common/btn_go01.png") 15px center no-repeat;line-height:150%;padding:5px 15px 7px 40px;font-size:12px;margin-right:5px;background-size:12px auto;}
-	.btn_go02_wrap .btn_go02 {background:url("../../images/user/common/btn_go02.png") 15px center no-repeat;padding:5px 15px 7px 40px;font-size:12px;background-size:12px auto;}
+	.btn_go01_wrap .btn_go01 {color:#3886d3;background:url("https://www.imnd.or.kr/images/user/common/btn_go01.png") 15px center no-repeat;line-height:150%;padding:5px 15px 7px 40px;font-size:12px;margin-right:5px;background-size:12px auto;}
+	.btn_go02_wrap .btn_go02 {background:url("https://www.imnd.or.kr/images/user/common/btn_go02.png") 15px center no-repeat;padding:5px 15px 7px 40px;font-size:12px;background-size:12px auto;}
 	.btn_search_small {padding-left:25px;padding-right:16px;background-position-x:8px;background-size:12px auto;}
 	.btn_reload {padding:6px 10px 8px;padding-left:25px;padding-right:12px;background-position-x:8px;background-size:12px auto;}
 	.btn_check_small {padding-left:25px;padding-right:16px;background-position-x:8px;background-size:12px auto;}
@@ -1341,7 +1341,7 @@ _mobile table devide 시 margin-top 제거
 	.blank_popup {padding:5px;}
 	.blank_popup .title {font-size:16px;padding-bottom:5px;}
 	.blank_popup input {width:100%;padding:3px 5px 4px;font-size:12px;}
-	.btn_blank01 {display:inline-block;padding:3px 10px 4px 28px;font-size:12px;background:url("../../images/user/common/bull_blank01.png") 10px center no-repeat;background-size:12px auto;}
+	.btn_blank01 {display:inline-block;padding:3px 10px 4px 28px;font-size:12px;background:url("https://www.imnd.or.kr/images/user/common/bull_blank01.png") 10px center no-repeat;background-size:12px auto;}
 	.bull_calendar {margin-left:5px;}
 	.bull_calendar img {width:20px;height:auto;}
 	.import_area {display:block;margin-left:0;font-size:12px;}
@@ -1485,15 +1485,15 @@ _mobile table devide 시 margin-top 제거
 	.sub01_title03 .txt_big {font-size:16px;}
 	.sub01_bloon_all {overflow:hidden;position:relative;margin-top:15px;}
 	.sub01_bloon_all .sub01_bloon {width:210px;height:222px;}
-	.sub01_bloon_all .sub01_bloon01 {position:relative;left:50%;margin-left:-250px;background:url("../../images/user/common/bg_box01.png") no-repeat;padding:85px 32px 0;margin-top:100px;background-size:100% auto;}
+	.sub01_bloon_all .sub01_bloon01 {position:relative;left:50%;margin-left:-250px;background:url("https://www.imnd.or.kr/images/user/common/bg_box01.png") no-repeat;padding:85px 32px 0;margin-top:100px;background-size:100% auto;}
 	.sub01_bloon_all .sub01_bloon01 .bloon_tit {font-size:16px;margin-bottom:2px;}
 	.sub01_bloon_all .sub01_bloon01 .bloon_txt {font-size:11px;}
 	.sub01_bloon_all .sub01_bloon01 .bloon_txt span {font-size:11px;}
-	.sub01_bloon_all .sub01_bloon02 {position:absolute;left:50%;margin-left:-105px;top:0px;background:url("../../images/user/common/bg_box02.png") no-repeat;padding:85px 32px 0;background-size:100% auto;}
+	.sub01_bloon_all .sub01_bloon02 {position:absolute;left:50%;margin-left:-105px;top:0px;background:url("https://www.imnd.or.kr/images/user/common/bg_box02.png") no-repeat;padding:85px 32px 0;background-size:100% auto;}
 	.sub01_bloon_all .sub01_bloon02 .bloon_tit {font-size:13px;margin-bottom:2px;}
 	.sub01_bloon_all .sub01_bloon02 .bloon_txt {font-size:11px;}
 	.sub01_bloon_all .sub01_bloon02 .bloon_txt span {font-size:11px;}
-	.sub01_bloon_all .sub01_bloon03 {position:absolute;right:50%;margin-right:-250px;top:100px;background:url("../../images/user/common/bg_box03.png") no-repeat;padding:85px 32px 0;background-size:100% auto;}
+	.sub01_bloon_all .sub01_bloon03 {position:absolute;right:50%;margin-right:-250px;top:100px;background:url("https://www.imnd.or.kr/images/user/common/bg_box03.png") no-repeat;padding:85px 32px 0;background-size:100% auto;}
 	.sub01_bloon_all .sub01_bloon03 .bloon_tit {font-size:13px;margin-bottom:2px;}
 	.sub01_bloon_all .sub01_bloon03 .bloon_txt {font-size:11px;}
 	.sub01_bloon_all .sub01_bloon03 .bloon_txt span {font-size:11px;}
@@ -1675,3 +1675,385 @@ _mobile table devide 시 margin-top 제거
     	height: 150px; 
     } 
 } 
+
+
+
+
+
+
+/* 2026.01.21 */
+.step_list{display:flex;align-items: center;justify-content: center;gap:2rem;text-align: center;padding:15px;margin-bottom:40px;}
+.step_list .item{flex:1 1;max-width:95px;display:flex;flex-direction: column;gap:10px;color:#666;position: relative;}
+.step_list .item:first-child:before{content:"";position:absolute;left:0;top:18px;width:50%;height:4px;background-color: #fff;z-index: 2;}
+.step_list .item:last-child:before{content:"";position:absolute;right:0;top:18px;width:50%;height:4px;background-color: #fff;z-index: 2;}
+.step_list .item:last-child:after{display: none;}
+.step_list .item:after{content:"";position:absolute;left:50%;top:19px;width:100%;border-top: 2px dashed #D7D6DB;z-index: 1;}
+.step_list .item .num{border-radius: 50%;border:2px solid #D7D6DB;background-color: #fff;width:40px;height:40px;margin:0 auto;display:flex;align-items: center;justify-content: center;font-size:1.6rem;font-weight:300;position: relative;z-index: 3;}
+.step_list .item .text{font-size:1.6rem;font-weight:500;}
+.step_list .item.active{color:#252525;}
+.step_list .item.active .num{background-color: #282828;color:#fff;border:0;font-weight: 500;}
+.step_list .item.comp .num{text-indent: -9999px;overflow: hidden;background-position: center center;background-repeat: no-repeat;background-image: url("data:image/svg+xml,%3Csvg width='13' height='11' viewBox='0 0 13 11' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1.5 5.69048L4.89803 9.5L11.5 1.5' stroke='%23666666' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A");}
+
+.icon_box_button{display:flex;gap:20px;}
+.icon_box_button button{flex:1 1;border:1px solid #D7D6DB;background-color: #fff;display:flex;flex-direction: column;padding:40px;gap:10px;}
+.icon_box_button button:hover{border:3px solid #24A9AE;padding:38px;}
+.icon_box_button button .cnt{display: flex;flex-direction: column;gap:10px;}
+.icon_box_button button .icon svg{display: block;margin:auto;}
+.icon_box_button button .tit{color:#252525;font-size:2.4rem;font-weight:500;}
+.icon_box_button button .txt{color:#666;font-size:1.6rem;font-weight:300;}
+.icon_box_button button .btn{margin-top:20px;background-color: #24A9AE;color:#fff;display:flex;width:100%;align-items: center;justify-content: center;font-size:1.6rem;font-weight:500;gap:5px;}
+.icon_box_button button .btn svg{}
+
+@media all and (max-width:768px){
+    .icon_box_button{padding:0 20px;flex-direction: column;}
+    .icon_box_button button{padding:20px;gap:10px;position: relative;gap:5px;word-break: keep-all;}
+    .icon_box_button button:hover{padding:20px;border-width: 1px;}
+    .icon_box_button button .cnt{gap:5px;position: relative;}
+    .icon_box_button button .tit{font-size:2rem;}
+    .icon_box_button button .txt{font-size:1.5rem;}
+    .icon_box_button button .txt br{display: none;}
+    .icon_box_button button .btn{margin-top:15px;}
+} 
+
+
+.tb_response {width:100%;border-top:2px solid #252525;}
+.tb_response th {background-color:#F2F3F6;vertical-align:top;letter-spacing: -0.02em;padding:14px 20px 14px 20px;height:54px;word-break: keep-all;vertical-align: middle;text-align:left;font-weight:500;font-size:16px;color:#252525;border-bottom:1px solid #D7D6DB;}
+.tb_response th span{display: block;padding-left:20px;}
+.tb_response th .required{background-image: url("https://www.imnd.or.kr/images/user/common/bull_import.png");background-repeat: no-repeat;background-position: left top 8px;display: block;}
+.tb_response td {padding:14px 20px;font-size:16px;height:54px;vertical-align: middle;border-bottom:1px solid #D7D6DB;color:#252525;font-weight:300;}
+.tb_response td input[type="text"],
+.tb_response td input[type="tel"],
+.tb_response td input[type="password"],
+.tb_response td input[type="email"]{padding:0 10px;min-height:36px;border:1px solid #d7d7d7;font-size:16px;display:inline-block;vertical-align:middle;width:100%;max-width:100%;font-weight:300;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;color:#252525;
+}
+.tb_response td input::placeholder{color:#666;opacity: 1;}
+.tb_response td select{padding:0 20px 0 8px;min-height:36px;border:1px solid #d7d7d7;font-size:16px;display:inline-block;vertical-align:middle;width:100%;max-width:100%;font-weight:300;color:#666;
+    background-repeat: no-repeat;background-position: right 10px center;appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg width='12' height='12' viewBox='0 0 12 12' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1 4L6 9L11 4' stroke='%23666666' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A");
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;color:#252525;
+}
+.tb_response td textarea {padding:10px;border:1px solid #d7d7d7;resize:none;width:100%;font-size:16px;max-width:100%;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.tb_response td *::placeholder{color:#acacac; opacity: 1;}
+
+.form_btns{display: flex;justify-content: center;gap:10px;margin-top:45px;}
+.form_btns button{max-width:150px;flex:1 1;height:50px;font-size:1.6rem;font-weight:500;}
+.form_btns .submit{background-color: #24A9AE;color:#fff;border:0;}
+.form_btns .line{background-color: #fff;color:#24A9AE;border:1px solid #24A9AE;}
+.form_btns .submit:hover{background-color: #1e9da1;}
+.form_btns .line:hover{color:#1e9da1;border:1px solid #1e9da1;}
+
+@media all and (max-width:768px){
+    .tb_response {display:block;}
+    .tb_response tbody{display: block;}
+    .tb_response tbody tr{display:block;}
+    .tb_response tbody tr th{display: block;}
+    .tb_response tbody tr td{display: block;}
+    .tb_response th {padding:10px 15px;height:auto;font-size:15px;}
+    .tb_response th span{padding-left:0;}
+    .tb_response th .required{background-position: right top 8px;padding-right:20px;display: inline;}
+    .tb_response td {padding:10px 15px;font-size:15px;height:auto;}
+    .tb_response td input[type="text"],
+    .tb_response td input[type="tel"],
+    .tb_response td input[type="password"],
+    .tb_response td input[type="email"]{max-width:100% !important;font-size:1.5rem;}
+    .tb_response td select{max-width:100% !important;font-size:1.5rem;}
+    .tb_response td textarea {max-width:100% !important;font-size:1.5rem;}
+
+    .form_btns{margin-top:30px;padding:0 15px;}
+    .form_btns button{max-width:999em;}
+}
+
+.tb_wrap + .new_terms{margin-top:45px;}
+.new_terms input[type="checkbox"]{flex:0 0 auto;width:24px;height:24px;border:3px solid #D7D7D7;background-color: #fff;display: block;appearance: none;border-radius: 50%;}
+.new_terms input[type="checkbox"]:checked{background-color: #305DB3;border:0;background-position: center top 7px;background-repeat: no-repeat;background-image: url("data:image/svg+xml,%3Csvg width='13' height='11' viewBox='0 0 13 11' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1.5 5.69048L4.89803 9.5L11.5 1.5' stroke='white' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A");}
+.new_terms {display:flex;flex-direction: column;gap:20px;}
+.new_terms .terms_all {border:1px solid #D7D6DB;padding:30px;color:#252525;}
+.new_terms .terms_all label {display:flex;gap:10px;align-items: center;}
+.new_terms .terms_all label span {font-weight:500;font-size:2rem;}
+.new_terms .terms_item {padding:30px;border:1px solid #D7D6DB;}
+.new_terms .terms_item .terms_content {background-color: #F2F3F6;height:286px;overflow-y: auto;overflow-x: hidden;padding:30px;color:#252525;}
+.new_terms .terms_item .terms_content h3 {text-align: center;font-size:2.4rem;font-weight:500;margin-bottom:30px;color:#252525;}
+.new_terms .terms_item .terms_content p {font-size:1.6rem;font-weight:300;color:#252525;line-height: 1.3;}
+.new_terms .terms_item .terms_content table {width:100%;border-spacing: 1px;background-color: #D7D6DB;border-collapse: separate;}
+.new_terms .terms_item .terms_content table th {background-color: #F2F3F6;text-align: center;vertical-align: middle;color:#252525;font-size: 1.6rem;font-weight:350;}
+.new_terms .terms_item .terms_content table td {padding:11px 20px;font-size:1.6rem;font-weight:300;vertical-align: middle;color:#252525;background-color: #fff;}
+.new_terms .terms_item .terms_content > * + *{margin-top:15px;}
+
+.new_terms .terms_item .terms_content + .terms_label {margin-top:30px;}
+.new_terms .terms_item .terms_label label {display: flex;gap:10px;align-items: center;}
+.new_terms .terms_item .terms_label label span {font-weight:500;font-size:2rem;color:#252525;letter-spacing: -0.02em;}
+.new_terms .terms_item .terms_label label span strong {color:#305DB3;}
+.new_terms .terms_item .terms_label .toggle_btn{display: none;}
+@media all and (max-width:768px){
+	.tb_wrap + .new_terms{margin-top:25px;}
+	.new_terms{padding:0 15px;}
+	.new_terms input[type="checkbox"]{width:20px;height:20px;border:1px solid #D7D7D7;}
+	.new_terms input[type="checkbox"]:checked{background-position: center top 6px;background-size:10px;}
+	.new_terms {gap:15px;}
+	.new_terms .terms_all {padding:15px;}
+	.new_terms .terms_all label span {font-size:1.8rem;}
+	.new_terms .terms_item {padding:0;display:flex;flex-direction: column-reverse;}
+	.new_terms .terms_item .terms_content {height:156px;padding:15px;display: none;}
+	.new_terms .terms_item .terms_content.active{}
+	.new_terms .terms_item .terms_content h3 {font-size:2rem;margin-bottom:15px;}
+	.new_terms .terms_item .terms_content p {font-size:1.5rem;}
+	.new_terms .terms_item .terms_content table {display: block;width: 100%;border:1px solid #D7D6DB;}
+	.new_terms .terms_item .terms_content table *{display: block;width:100%;}
+	.new_terms .terms_item .terms_content table th {font-size: 1.5rem;padding:10px;text-align: left;border-bottom:1px solid #D7D6DB;}
+	.new_terms .terms_item .terms_content table td {padding:10px;font-size:1.4rem;}
+	.new_terms .terms_item .terms_content > * + *{margin-top:12px;}
+
+	.new_terms .terms_item .terms_label {padding:11px 15px;min-height:58px;position: relative;display: flex;align-items: center;}
+	.new_terms .terms_item .terms_content + .terms_label {margin-top:0;}
+	.new_terms .terms_item .terms_label label{position: relative;}
+	.new_terms .terms_item .terms_label label:has(+ .toggle_btn){padding-right:50px;}
+	.new_terms .terms_item .terms_label label input{margin-top:3px;}
+	.new_terms .terms_item .terms_label label span {font-size:1.8rem;}
+	.new_terms .terms_item .terms_label .toggle_btn{display: block;border:0;background-color: transparent;text-indent: -999em;overflow:hidden;transition: all 0.3s;position: absolute;right:0;top:50%;transform: translateY(-50%);width:54px;height:54px;background-position: center center;background-repeat: no-repeat;background-image: url("data:image/svg+xml,%3Csvg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='24' height='24' rx='12' fill='%23F2F3F6'/%3E%3Cpath d='M10.5 16L14.5 12L10.5 8' stroke='%23666666' stroke-opacity='0.4' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A");}
+	.new_terms .terms_item .terms_label .toggle_btn.active{transform:translateY(-50%) rotate(-90deg);}
+}
+
+.popup_layer{display:none;align-items: center;justify-content: center;z-index: 10000;left: 0;top: 0;width: 100%;height: 100%;background-color: rgba(0,0,0,0.6);position: fixed;justify-content: center;align-items: center;}
+.popup_layer.visible{display: flex;}
+.popup_layer .popup_box{background-color: #fff;width:calc(100% - 40px);max-height:calc(100% - 100px);display:flex;flex-direction: column;}
+.popup_layer .popup_box .popup_title{display: flex;align-items: center;padding:17px 25px;border-bottom:1px solid #D7D6DB;}
+.popup_layer .popup_box .popup_title:not(:has(h3)){padding:24px 25px;border:0;}
+.popup_layer .popup_box .popup_title h3{font-size:2rem;font-weight:500;color:#252525;}
+.popup_layer .popup_box .popup_title .close{margin-left:auto;width:16px;height:16px;text-indent: -9999px;border:0;overflow: hidden;background-color: transparent;background-position: center center;background-repeat: no-repeat;background-image: url("data:image/svg+xml,%3Csvg width='16' height='16' viewBox='0 0 16 16' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M14.8574 1.00488L0.997068 15.0049' stroke='%23282828' stroke-width='2' stroke-linecap='round'/%3E%3Cpath d='M1.13672 1.00488L14.9971 15.0049' stroke='%23282828' stroke-width='2' stroke-linecap='round'/%3E%3C/svg%3E%0A");}
+.popup_layer .popup_box .popup_content{padding:25px;display: flex;flex-direction: column;gap:15px;flex:1 1 auto;height:1%;overflow-y: auto;}
+.popup_layer .popup_box .popup_content p{font-size:1.6rem;font-weight:500;color:#666666;line-height: 1.3;}
+.popup_layer .popup_box .popup_content input{padding:0 10px;border:1px solid #D7D7D7;font-size:1.6rem;height:36px;width:100%;font-weight:300;color:#252525;}
+.popup_layer .popup_box .popup_content .popup_btns{display: flex;align-items: center;justify-content: center;gap:10px;margin-top:30px;}
+.popup_layer .popup_box .popup_content .popup_btns button.submit{flex:1 1;background-color: #24A9AE;color:#fff;border:0;height:50px;font-size:1.6rem;font-weight:500;color:#fff;}
+.popup_layer .popup_box .popup_content .popup_btns button.submit:hover{background-color: #1e9da1;}
+
+.checkbox_new{color:#252525;font-size:1.6rem;font-weight:300;display: inline-flex;align-items: center;gap:0.5rem;}
+.checkbox_new input[type="checkbox"]{}
+.checkbox_new input[type="radio"]{cursor:pointer;flex:0 0 auto;appearance: none;-webkit-appearance: none;width:20px;height:20px;background-position: center center;background-repeat: no-repeat;background-color: #fff;background-image: url("data:image/svg+xml,%3Csvg width='20' height='20' viewBox='0 0 20 20' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='10' cy='10' r='9' fill='white' stroke='%23D7D7D7' stroke-width='2'/%3E%3C/svg%3E%0A");}
+.checkbox_new input[type="radio"]:checked{background-image: url("data:image/svg+xml,%3Csvg width='20' height='20' viewBox='0 0 20 20' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cg clip-path='url(%23clip0_810_7439)'%3E%3Ccircle cx='10' cy='10' r='9' fill='white' stroke='%23305DB3' stroke-width='2'/%3E%3Ccircle cx='10' cy='10' r='5' fill='%23305DB3'/%3E%3C/g%3E%3Cdefs%3E%3CclipPath id='clip0_810_7439'%3E%3Crect width='20' height='20' fill='white'/%3E%3C/clipPath%3E%3C/defs%3E%3C/svg%3E%0A");}
+.checkbox_inline{margin-right:10px;}
+
+.new_terms + .text_bg_box{margin-top:20px;}
+.text_bg_box{background-color: #F2F3F6;padding:30px;}
+.text_bg_box .title{color:#252525;font-size:2rem;font-weight:500;margin-bottom:10px;letter-spacing: -0.02em;}
+.text_bg_box p{padding-left:24px;font-size:1.6rem;color:#666;font-weight:300;letter-spacing: -0.02em;}
+
+@media all and (max-width:768px){
+	.popup_layer .popup_box .popup_title{padding:15px;}
+	.popup_layer .popup_box .popup_content{padding:15px;}
+
+	.checkbox_new{font-size:1.5rem;}
+	.checkbox_new input[type="radio"]{width:18px;height:18px;background-size: contain;}
+
+	.text_bg_box{padding:15px;margin-left:15px;margin-right:15px;text-align: center;}
+	.text_bg_box .title{font-size:1.8rem;margin-bottom:8px;}
+	.text_bg_box p{padding-left:0;font-size:1.5rem;}
+}
+
+
+.saving_content {padding:40px;background-color: #E7F2F2;letter-spacing: -0.02em;}
+.saving_content .saving_title {text-align: center;margin-bottom:40px;}
+.saving_content .saving_title h3 {color:#0A9593;font-size:3.6rem;font-weight:500;}
+.saving_content .saving_title p {margin-top:10px;color:#252525;font-size:2rem;font-weight:500;}
+.saving_content .saving_info {display: flex;flex-direction: column;gap:20px;}
+.saving_content .saving_info_item {border-radius: 20px;padding:25px;background-color: #fff;font-weight:300;color: #252525;}
+.saving_content .saving_info_title {margin-bottom:15px;color:#252525;font-size:2rem;font-weight:500;padding-left:24px;background-position: left center;background-repeat: no-repeat;background-image: url("data:image/svg+xml,%3Csvg width='16' height='16' viewBox='0 0 16 16' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M4 2H12V14H4V2Z' fill='%2324A9AE'/%3E%3Cpath d='M4 8H12V14H4V8Z' fill='%23305DB3'/%3E%3C/svg%3E%0A");}
+.saving_content .saving_info_content {display: flex;flex-direction: column;gap:10px;padding-left:24px;}
+.saving_content .saving_info_content ol {display: flex;flex-direction: column;gap:10px;}
+.saving_content .saving_info_content ol li {color:#252525;font-size:1.6rem;}
+.saving_content .saving_info_content ol li > .inner_content{margin-top:10px;display:flex;flex-direction: column;gap:5px;}
+.saving_content .saving_info_content ol li > .inner_content .inner_content{padding-left:16px;}
+.saving_content .saving_info_content p{color:#252525;font-size:1.6rem;font-size:300;}
+.saving_content .cnt_num {font-weight: 350;}
+.saving_content .cnt_num:has(.num){position: relative;padding-left:21px;}
+.saving_content .cnt_num .num{position: absolute;left:0;top:1px;}
+
+
+.saving_content .cnt_num .num {}
+.saving_content .cnt_num .underline {text-decoration: underline;text-underline-offset: 3px;}
+.saving_content .inner_content {padding-left:24px;}
+.saving_content .inner_content .cnt_sqaure {}
+.saving_content .inner_content .cnt_dash {display: flex;gap:4px;color:#666666;}
+.saving_content .inner_content .cnt_dash:before{content:"";background-color: #666;width:4px;height:1px;margin-top:11px;}
+.saving_content .inner_content p {}
+
+.saving_content .cnt_sqaure {display: flex;gap:8px;}
+.saving_content .cnt_sqaure:before{content:"";width:4px;height:4px;background-color: #252525;margin-top:9px;}
+.saving_content .saving_info_content table {width:100%;border-spacing: 1px;border-collapse: separate;background-color: #D7D6DB;}
+.saving_content .saving_info_content table thead th {background-color: #F2F3F6;vertical-align: middle;height:46px;font-weight:350;color:#252525;padding:10px 20px;font-size:1.6rem;}
+.saving_content .saving_info_content table tbody th {background-color: #F2F3F6;vertical-align: middle;height:46px;font-weight:350;color:#252525;padding:10px 20px;font-size:1.6rem;}
+.saving_content .saving_info_content table tbody td {padding:10px 20px;font-weight:300;background-color: #fff;color:#252525;font-size:1.6rem;text-align: center;}
+.saving_table_mobile {display: none;}
+.saving_links {display: flex;justify-content: center;gap:20px;padding:40px;background-color: #B8DBDB;}
+.saving_links button {flex:1 1;height:60px;background-color: #fff;border:0;color:#24A9AE;font-weight:500;font-size:2rem;letter-spacing: -0.02em;max-width:350px;}
+.saving_links button span {display: inline-block;padding-right:17px;background-position: right center;background-repeat: no-repeat;background-image: url("data:image/svg+xml,%3Csvg width='12' height='12' viewBox='0 0 12 12' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M4 10.5L8 6.5L4 2.5' stroke='%2324A9AE' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A");}
+.cnt_check {}
+.cnt_check > div{display: inline-block;font-size:1.6rem;padding-left:21px;font-weight:350;background-position: left 4px;background-repeat: no-repeat;background-image: url("data:image/svg+xml,%3Csvg width='16' height='16' viewBox='0 0 16 16' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M3 8.19048L6.39803 12L13 4' stroke='%23305DB3' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A");}
+.cnt_check.blue > div{font-weight:350;}
+.cnt_check strong {font-weight: 350;color:#305DB3;}
+
+@media all and (max-width:768px){
+	.saving_content {padding:30px 20px;margin-left:15px;margin-right:15px;}
+	.saving_content .saving_title {margin-bottom:30px;}
+	.saving_content .saving_title h3 {font-size:2.8rem;}
+	.saving_content .saving_title p {font-size:1.6rem;}
+	.saving_content .saving_info {gap:15px;}
+	.saving_content .saving_info_item {border-radius: 15px;padding:20px;}
+	.saving_content .saving_info_title {margin-bottom:12px;font-size:1.8rem;padding-left:20px;background-size: 14px;background-position: -3px 6px;}
+	.saving_content .saving_info_content {padding-left:0;}
+	.saving_content .saving_info_content ol li {font-size:1.5rem;}
+	.saving_content .saving_info_content ol li > .inner_content{margin-top:8px;}
+	.saving_content .saving_info_content p{font-size:1.5rem;}
+
+	.saving_content .cnt_num {font-size:1.5rem;}
+	.saving_content .inner_content {padding-left:15px;}
+	.saving_content .inner_content .cnt_dash:before{margin-top:10px;}
+	.saving_content .cnt_check > div{font-size:1.5rem;padding-left:18px;background-size:14px;background-position: left 4px;}
+
+	.saving_content .cnt_sqaure:before{margin-top:8px;}
+    
+    .saving_table_pc {display: none;}
+	.saving_table_mobile {display: table;}
+	.saving_content .saving_info_content table thead th {height:38px;padding:5px 10px;font-size:1.5rem;}
+	.saving_content .saving_info_content table tbody th {height:38px;padding:5px 10px;font-size:1.5rem;}
+	.saving_content .saving_info_content table tbody td {padding:5px 10px;font-size:1.5rem;}
+
+	.saving_links {padding:20px 20px;gap:10px;margin-left:15px;margin-right:15px;}
+	.saving_links button {max-width: none;height:54px;font-size:1.6rem;}
+	.cnt_check > div {font-size:1.5rem;padding-left:18px;background-size:14px;background-position: left 4px;}
+}
+@media all and (max-width:468px){
+	.saving_links {flex-direction: column;gap:15px;}
+	.saving_links button {min-height: 45px;}
+
+}
+
+
+
+.table_sub_wrap {margin-top:45px;border:2px solid #D7D6DB;padding:30px;}
+.table_sub_top {display:flex; align-items: flex-end; justify-content: space-between;padding:30px; margin-bottom:30px; gap:20px;background-color: #F2F3F6;word-break: keep-all;}
+.table_sub_top .title h3 {font-size:2rem; font-weight:500; color:#252525; margin-bottom:5px; letter-spacing: -0.02em;}
+.table_sub_top .table_top_btn_check {flex-shrink:0;height:50px;color:#fff;border:0;padding:0 25px;font-size:1.6rem;font-weight:500;display:flex;align-items: center;gap:5px;background-color: #305DB3;}
+.table_sub_top .table_top_btn_check svg{margin-top:2px;}
+.table_sub_top .table_top_btn_check:hover{background-color: #2954a5;}
+.title_mypage + .table_new{margin-top:15px;}
+.table_new {width:100%; border-top:2px solid #252525;border-bottom:1px solid #D7D6DB; }
+.table_new th {background-color: #fff; padding:12px 10px; height:51px;font-size:1.6rem; font-weight:500; color:#252525; text-align: center; vertical-align: middle;}
+.table_new td {background-color: #fff; padding:12px 10px; height:51px;font-size:1.6rem; font-weight:300; color:#252525; text-align: center; vertical-align: middle;border-top:1px solid #D7D6DB;}
+.table_new td.text_left{text-align: left;}
+@media all and (max-width:768px) {
+    .table_sub_wrap {margin:20px 15px 0; padding:15px;}
+    .table_sub_top {flex-direction: column; align-items: flex-start; gap:12px; padding:15px;margin-bottom:20px;}
+    .table_sub_top .title{display: flex;flex-direction: column;align-items: center;justify-content: center;width:100%;text-align: center;}
+    .table_sub_top .title h3 {font-size:1.8rem; word-break: keep-all;}
+    .table_sub_top .title .cnt_check > div {font-size:1.5rem; word-break: keep-all;display: inline;}
+    .table_sub_top .table_top_btn_check {width:100%;justify-content: center;}
+	
+	.table_sub_wrap .table_new{margin-left:0;margin-right:0;width:100%;}
+    .table_new {display: block; margin-left:15px;margin-right:15px;width:calc(100% - 30px);}
+    .table_new thead {display: none;}
+    .table_new tbody {display: block;}
+    .table_new tr {display: block;padding:7px 15px; }
+    .table_new tr + tr{border-top:1px solid #D7D6DB;}
+    .table_new td {display: flex; padding:3px 0; background-color: transparent; font-size: 1.6rem;height: auto;text-align: right;border:0;}
+    .table_new td.text_left{text-align: right;}
+    .table_new td:before {content: attr(data-label); font-weight: 500;font-size:1.6rem; margin-right: 15px; color:#252525; flex: 0 0 100px;text-align: left;margin-right:auto;}
+}
+
+
+
+.policy_popup_title {padding:25px;margin-bottom:20px; text-align: center; background-color: #E7F1F1;display:flex;flex-direction: column;align-items: center;justify-content: center;gap:10px;border-radius:20px;}
+.policy_popup_title h3 {font-size: 3.2rem; font-weight: 500; color: #0A9593; letter-spacing: -0.02em;}
+.policy_popup_title p {font-size: 1.8rem; color: #252525 !important; word-break: keep-all; font-weight: 500;}
+
+.popup_content .saving_content{padding:0;background-color: transparent;margin-bottom:15px;}
+.popup_content .saving_content .saving_info .saving_info_item{padding:0;border-radius: 0;}
+.popup_content .saving_content .saving_info .saving_info_item + .saving_info_item{padding-top:20px;border-top:1px dashed #D7D6DB;}
+.saving_step {display: flex; gap: 26px; }
+.saving_step .item {position: relative;;flex: 1; border:2px solid #D7D6DB;border-radius:20px; padding: 15px; text-align: center; display: flex; flex-direction: column; justify-content: center; gap: 5px; position: relative; min-height: 144px;word-break: keep-all;}
+.saving_step .item:after{content:"";position: absolute;right:-26px;top:50%;transform: translateY(-50%);width:26px;height:16px;background-position: center center;background-repeat: no-repeat;;background-image: url("data:image/svg+xml,%3Csvg width='16' height='16' viewBox='0 0 16 16' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M5 14L11 8L5 2' stroke='%23305DB3' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A");}
+.saving_step .item strong {font-size: 1.6rem; color: #252525; font-weight: 500; }
+.saving_step .item:last-child{border:3px solid #305DB3;}
+.saving_step .item:last-child:after {display: none;}
+.popup_layer .popup_box .popup_content .saving_step .item p {font-size: 1.6rem; color: #252525; font-weight: 350;}
+.saving_step .item span {font-size: 1.4rem; color: #305DB3; font-weight: 350;}
+
+.saving_bank {display: flex; flex-wrap: wrap; gap: 10px; }
+.saving_bank .item {flex:1 1;height: 70px; display: flex; align-items: center; justify-content: center; background-color: #F9FAFD;border-radius:10px;}
+.saving_bank .item img {height:20px;}
+
+@media all and (max-width:768px) {
+    .policy_popup_title {padding:20px 15px; border-radius:15px; margin-bottom:5px;}
+    .policy_popup_title h3 {font-size:2.4rem;}
+    .policy_popup_title p {font-size:1.5rem;}
+
+    .saving_step {flex-direction: column; gap:18px;}
+    .saving_step .item {min-height: auto; padding:15px;border-radius: 10px;}
+    .saving_step .item:after {right:auto; left:50%; top:auto; bottom:-24px; transform: translateX(-50%) rotate(90deg); width:16px; height:26px;}
+    .saving_step .item:last-child:after {display: none;}
+    
+    .saving_bank .item {flex:1 1 calc(50% - 10px); height:60px;}
+	.popup_content .saving_content{margin-left:0;margin-right:0;}
+	.popup_content .saving_content .saving_info .saving_info_item + .saving_info_item{padding-top:15px;}
+}
+
+.saving_popup_title {padding:25px; margin-bottom:25px;border-radius:20px; text-align: center; background-color: #E2F1F1;}
+.saving_popup_title h3 {font-size: 3.2rem; font-weight: 500; color: #0A9593; letter-spacing: -0.02em;}
+
+.qna_items {display: flex; flex-direction: column; gap: 15px;}
+.qna_items .item {padding: 20px; border:1px solid #D7D6DB;border-radius: 20px;}
+.qna_items .item .q, .qna_items .item .a {display: flex; gap: 15px;align-items: center; }
+.qna_items .item .q {margin-bottom: 20px;}
+.qna_items .item .q .type {width: 32px; height: 32px; flex-shrink: 0;text-indent:-999em;background-position:center center;background-size:contain;background-repeat:no-repeat;background-image: url("data:image/svg+xml,%3Csvg width='32' height='32' viewBox='0 0 32 32' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='32' height='32' rx='16' fill='%23305DB3'/%3E%3Cpath d='M15.9989 21.224C14.9216 21.224 13.9723 20.9787 13.1509 20.488C12.3296 19.9867 11.6896 19.272 11.2309 18.344C10.7723 17.4053 10.5429 16.2853 10.5429 14.984C10.5429 13.6827 10.7723 12.5787 11.2309 11.672C11.6896 10.7547 12.3296 10.0613 13.1509 9.592C13.9723 9.112 14.9216 8.872 15.9989 8.872C17.0869 8.872 18.0363 9.112 18.8469 9.592C19.6683 10.072 20.3083 10.7653 20.7669 11.672C21.2256 12.5787 21.4549 13.6827 21.4549 14.984C21.4549 16.2853 21.2256 17.4053 20.7669 18.344C20.3083 19.272 19.6683 19.9867 18.8469 20.488C18.0363 20.9787 17.0869 21.224 15.9989 21.224ZM15.9989 18.888C16.5216 18.888 16.9696 18.7387 17.3429 18.44C17.7269 18.1307 18.0203 17.6827 18.2229 17.096C18.4363 16.5093 18.5429 15.8053 18.5429 14.984C18.5429 14.216 18.4363 13.56 18.2229 13.016C18.0203 12.4613 17.7269 12.04 17.3429 11.752C16.9696 11.464 16.5216 11.32 15.9989 11.32C15.4763 11.32 15.0229 11.464 14.6389 11.752C14.2656 12.04 13.9776 12.4613 13.7749 13.016C13.5723 13.56 13.4709 14.216 13.4709 14.984C13.4709 15.8053 13.5723 16.5093 13.7749 17.096C13.9776 17.6827 14.2656 18.1307 14.6389 18.44C15.0229 18.7387 15.4763 18.888 15.9989 18.888ZM19.9669 24.36C19.0816 24.36 18.2869 24.2107 17.5829 23.912C16.8789 23.6133 16.2763 23.2027 15.7749 22.68C15.2843 22.1573 14.9003 21.5653 14.6229 20.904L17.5189 20.6C17.6683 20.9627 17.8869 21.256 18.1749 21.48C18.4736 21.704 18.8096 21.864 19.1829 21.96C19.5563 22.056 19.9243 22.104 20.2869 22.104C20.5429 22.104 20.7829 22.0827 21.0069 22.04C21.2416 21.9973 21.4496 21.944 21.6309 21.88L22.1429 23.96C21.9083 24.0773 21.6043 24.1733 21.2309 24.248C20.8576 24.3227 20.4363 24.36 19.9669 24.36Z' fill='white'/%3E%3C/svg%3E%0A");}
+.qna_items .item .q .txt {font-size: 1.6rem; font-weight: 500; color: #305DB3; line-height: 1.4; word-break: keep-all;}
+.qna_items .item .a{margin-top:15px;padding-top:15px;border-top:1px dashed #D7D6DB;}
+.qna_items .item .a .type {width: 32px; height: 32px; flex-shrink: 0;text-indent:-999em;background-position:center center;background-size:contain;background-repeat:no-repeat;background-image: url("data:image/svg+xml,%3Csvg width='32' height='32' viewBox='0 0 32 32' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='32' height='32' rx='16' fill='%23EFEFF0'/%3E%3Cpath d='M10.5907 21L14.2868 9.08H17.7108L21.4068 21H18.3988L16.9108 15.048C16.7508 14.4507 16.5908 13.816 16.4308 13.144C16.2814 12.472 16.1268 11.832 15.9668 11.224H15.9028C15.7641 11.8427 15.6148 12.488 15.4548 13.16C15.2948 13.8213 15.1401 14.4507 14.9908 15.048L13.5028 21H10.5907ZM13.1028 18.264V16.056H18.8628V18.264H13.1028Z' fill='%23666666'/%3E%3C/svg%3E%0A");}
+.qna_items .item .a .txt {font-size: 1.6rem; font-weight: 300; color: #252525; line-height: 1.5; word-break: keep-all;}
+.qna_items .cnt_check.green {margin-top:5px;}
+.cnt_check.green > div{color: #0A9593; font-weight: 350; background-image: url("data:image/svg+xml,%3Csvg width='16' height='16' viewBox='0 0 16 16' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M3 8.19048L6.39803 12L13 4' stroke='%230A9593' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A"); background-repeat: no-repeat; background-position: left 5px; background-size: 14px;}
+@media all and (max-width:768px){
+	.saving_popup_title {padding:20px 15px; border-radius:15px; margin-bottom:15px;}
+    .saving_popup_title h3 {font-size:2.4rem;}
+
+    .qna_items {gap:10px;}
+    .qna_items .item {padding:15px; border-radius:15px;}
+    .qna_items .item .q {position: relative;width:100%;padding-right:34px;margin:0;cursor: pointer;}
+    .qna_items .item .q .type, .qna_items .item .a .type {width:24px; height:24px;}
+    .qna_items .item .q .txt, .qna_items .item .a .txt {font-size:1.5rem;}
+	.qna_items .item .q:after{transition: all 0.3s;content:"";position: absolute;right:0;top:50%;transform: translateY(-50%);width:24px;height:24px;background-position: center center;background-repeat: no-repeat;background-image: url("data:image/svg+xml,%3Csvg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='24' height='24' rx='12' fill='%23F2F3F6'/%3E%3Cpath d='M10.5 16L14.5 12L10.5 8' stroke='%23666666' stroke-opacity='0.4' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A");}
+	.qna_items .item .a{display: none;position:relative;padding-left:39px;}
+	.qna_items .item .a .type {position: absolute;left:0;top:50%;transform: translateY(-50%);margin-top:7px;}
+	.qna_items .item .q.active:after {transform: translateY(-50%) rotate(-90deg);}
+}
+
+
+
+.search_new {padding:30px; border: 2px solid #D7D6DB; border-radius: 0; margin-bottom: 4px;}
+.search_new .sn_content {display: flex; align-items: center; justify-content: center; gap: 20px; }
+.search_new .sn_content .tit {font-size: 1.6rem; font-weight: 500; color: #252525; flex-shrink: 0;}
+.search_new .sn_content .inputs {display: flex; align-items: center; gap: 5px;}
+.search_new .sn_content .inputs .input {width: 250px;}
+.search_new .sn_content .inputs .input input {width: 100%; height: 50px; border: 1px solid #d7d7d7; background-color: #fff; padding: 0 15px;font-weight:300; font-size: 1.6rem; color: #252525; background-repeat: no-repeat; background-position: right 16px center;background-image: url("data:image/svg+xml,%3Csvg width='16' height='16' viewBox='0 0 16 16' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M2.5 6H13.5M2.5 6V11.8668C2.5 12.6135 2.5 12.9867 2.64987 13.2719C2.78169 13.5228 2.99189 13.727 3.25061 13.8548C3.54445 14 3.92931 14 4.69788 14H11.3021C12.0707 14 12.455 14 12.7488 13.8548C13.0076 13.727 13.2185 13.5228 13.3503 13.2719C13.5 12.987 13.5 12.6143 13.5 11.8691V6M2.5 6V5.4668C2.5 4.72006 2.5 4.34641 2.64987 4.0612C2.78169 3.81032 2.99189 3.60649 3.25061 3.47866C3.54474 3.33333 3.93006 3.33333 4.70013 3.33333H5.25M13.5 6V5.46461C13.5 4.71933 13.5 4.34613 13.3503 4.0612C13.2185 3.81032 13.0076 3.60649 12.7488 3.47866C12.4547 3.33333 12.0702 3.33333 11.3001 3.33333H10.75M10.75 2V3.33333M10.75 3.33333H5.25M5.25 2V3.33333' stroke='%23666666' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A"); }
+.search_new .sn_content .inputs .dash {font-size: 1.6rem; color: #666;font-size:300;}
+.search_new .sn_content .search_submit {height: 50px; padding: 0 25px;white-space: nowrap;; background-color: #282828; color: #fff; font-size: 1.6rem; font-weight: 500; display: flex; align-items: center; gap: 5px; border: 0; }
+.search_new .sn_content .search_submit:hover {background-color: #000;}
+.search_new .sn_content .search_submit svg {width: 20px; height: 20px;}
+.search_new p {text-align: center; font-size: 1.6rem; color: #666; font-weight: 300; letter-spacing: -0.02em;margin-top:20px;}
+
+@media all and (max-width:768px) {
+    .search_new {padding: 20px 15px; margin: 0 15px 20px; width: calc(100% - 30px);}
+    .search_new .sn_content {flex-direction: column; gap: 15px; align-items: stretch;}
+    .search_new .sn_content .tit {text-align: center;}
+    .search_new .sn_content .inputs {width: 100%;}
+    .search_new .sn_content .inputs .input {flex: 1;width:auto;}
+    .search_new .sn_content .search_submit {width: 100%; justify-content: center;}
+}
