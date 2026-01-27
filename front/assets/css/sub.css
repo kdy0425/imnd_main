@@ -1802,7 +1802,7 @@ _mobile table devide 시 margin-top 제거
 	.new_terms .terms_all {padding:15px;}
 	.new_terms .terms_all label span {font-size:1.8rem;}
 	.new_terms .terms_item {padding:0;display:flex;flex-direction: column-reverse;}
-	.new_terms .terms_item .terms_content {height:156px;padding:15px;display: none;}
+	.new_terms .terms_item .terms_content {height:auto;padding:15px;display: none;overflow: inherit;}
 	.new_terms .terms_item .terms_content.active{}
 	.new_terms .terms_item .terms_content h3 {font-size:2rem;margin-bottom:15px;}
 	.new_terms .terms_item .terms_content p {font-size:1.5rem;}
