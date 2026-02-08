@@ -1829,13 +1829,20 @@ _mobile table devide 시 margin-top 제거
 .popup_layer .popup_box .popup_title:not(:has(h3)){padding:24px 25px;border:0;}
 .popup_layer .popup_box .popup_title h3{font-size:2rem;font-weight:500;color:#252525;}
 .popup_layer .popup_box .popup_title .close{margin-left:auto;width:16px;height:16px;text-indent: -9999px;border:0;overflow: hidden;background-color: transparent;background-position: center center;background-repeat: no-repeat;background-image: url("data:image/svg+xml,%3Csvg width='16' height='16' viewBox='0 0 16 16' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M14.8574 1.00488L0.997068 15.0049' stroke='%23282828' stroke-width='2' stroke-linecap='round'/%3E%3Cpath d='M1.13672 1.00488L14.9971 15.0049' stroke='%23282828' stroke-width='2' stroke-linecap='round'/%3E%3C/svg%3E%0A");}
-.popup_layer .popup_box .popup_content{padding:25px;display: flex;flex-direction: column;gap:15px;flex:1 1 auto;height:1%;overflow-y: auto;}
+.popup_layer .popup_box .popup_content{padding:25px 25px 40px;display: flex;flex-direction: column;flex:1 1 auto;height:1%;overflow-y: auto;}
+
 .popup_layer .popup_box .popup_content p{font-size:1.6rem;font-weight:500;color:#666666;line-height: 1.3;}
-.popup_layer .popup_box .popup_content input{padding:0 10px;border:1px solid #D7D7D7;font-size:1.6rem;height:36px;width:100%;font-weight:300;color:#252525;}
-.popup_layer .popup_box .popup_content .popup_btns{display: flex;align-items: center;justify-content: center;gap:10px;margin-top:30px;}
+.popup_layer .popup_box .popup_content input[type="text"],
+.popup_layer .popup_box .popup_content input[type="tel"],
+.popup_layer .popup_box .popup_content input[type="password"],
+.popup_layer .popup_box .popup_content input[type="email"]{padding:0 10px;border:1px solid #D7D7D7;font-size:1.6rem;height:36px;width:100%;font-weight:300;color:#252525;}
+.popup_layer .popup_box .popup_content .popup_btns{display: flex;align-items: center;justify-content: center;gap:10px;margin-top:45px;}
 .popup_layer .popup_box .popup_content .popup_btns button.submit{flex:1 1;background-color: #24A9AE;color:#fff;border:0;height:50px;font-size:1.6rem;font-weight:500;color:#fff;}
 .popup_layer .popup_box .popup_content .popup_btns button.submit:hover{background-color: #1e9da1;}
-
+.popup_layer .popup_box .title_mypage{padding-top:0;margin-bottom:0;background-position: left 11px;}
+.popup_layer#password_layer .popup_box .popup_content{padding:25px;}
+.popup_layer#password_layer .popup_box .popup_content input[type="password"]{margin-top:15px;}
+.popup_layer .tb_wrap{padding:0;}
 .checkbox_new{color:#252525;font-size:1.6rem;font-weight:300;display: inline-flex;align-items: center;gap:0.5rem;}
 .checkbox_new input[type="checkbox"]{}
 .checkbox_new input[type="radio"]{cursor:pointer;flex:0 0 auto;appearance: none;-webkit-appearance: none;width:20px;height:20px;background-position: center center;background-repeat: no-repeat;background-color: #fff;background-image: url("data:image/svg+xml,%3Csvg width='20' height='20' viewBox='0 0 20 20' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='10' cy='10' r='9' fill='white' stroke='%23D7D7D7' stroke-width='2'/%3E%3C/svg%3E%0A");}
@@ -1849,7 +1856,12 @@ _mobile table devide 시 margin-top 제거
 
 @media all and (max-width:768px){
 	.popup_layer .popup_box .popup_title{padding:15px;}
-	.popup_layer .popup_box .popup_content{padding:15px;}
+	.popup_layer .popup_box .popup_content{padding:15px 15px 25px;}
+	.popup_layer#password_layer .popup_box .popup_content{padding:15px;}
+	.popup_layer .popup_box .title_mypage{padding-left:18px;background-position: left 7px;}
+	.popup_layer .new_terms{padding:0;}
+	.popup_layer .text_bg_box{margin-left:0;margin-right: 0;}
+	.popup_layer .form_btns{padding-left:0;padding-right:0;}
 
 	.checkbox_new{font-size:1.5rem;}
 	.checkbox_new input[type="radio"]{width:18px;height:18px;background-size: contain;}
@@ -1950,6 +1962,11 @@ _mobile table devide 시 margin-top 제거
 .table_new th {background-color: #fff; padding:12px 10px; height:51px;font-size:1.6rem; font-weight:500; color:#252525; text-align: center; vertical-align: middle;}
 .table_new td {background-color: #fff; padding:12px 10px; height:51px;font-size:1.6rem; font-weight:300; color:#252525; text-align: center; vertical-align: middle;border-top:1px solid #D7D6DB;}
 .table_new td.text_left{text-align: left;}
+.table_new td.btns {text-align: center;}
+.table_new td.btns button {border:1px solid #305DB3;background-color: #fff;color:#305DB3;min-width:50px;height:36px;padding:0 5px;font-size:1.6rem;font-weight: 350;}
+.table_new td.btns button:hover {border-color:#1c4694;color:#1c4694;}
+.table_new td.btns button:disabled{border:1px solid #D7D6DB;color:#666 !important;background-color: #F2F3F6 !important;opacity: 1;cursor: default;}
+
 @media all and (max-width:768px) {
     .table_sub_wrap {margin:20px 15px 0; padding:15px;}
     .table_sub_top {flex-direction: column; align-items: flex-start; gap:12px; padding:15px;margin-bottom:20px;}
@@ -1967,11 +1984,14 @@ _mobile table devide 시 margin-top 제거
     .table_new td {display: flex; padding:3px 0; background-color: transparent; font-size: 1.6rem;height: auto;text-align: right;border:0;}
     .table_new td.text_left{text-align: right;}
     .table_new td:before {content: attr(data-label); font-weight: 500;font-size:1.6rem; margin-right: 15px; color:#252525; flex: 0 0 100px;text-align: left;margin-right:auto;}
+	.table_new td.btns{padding:8px 0;}
+	.table_new td.btns:before{display:none;}
+	.table_new td.btns button {flex:1 1;height: 34px;}
 }
 
 
 
-.policy_popup_title {padding:25px;margin-bottom:20px; text-align: center; background-color: #E7F1F1;display:flex;flex-direction: column;align-items: center;justify-content: center;gap:10px;border-radius:20px;}
+.policy_popup_title {padding:25px;margin-bottom:40px; text-align: center; background-color: #E7F1F1;display:flex;flex-direction: column;align-items: center;justify-content: center;gap:10px;border-radius:20px;}
 .policy_popup_title h3 {font-size: 3.2rem; font-weight: 500; color: #0A9593; letter-spacing: -0.02em;}
 .policy_popup_title p {font-size: 1.8rem; color: #252525 !important; word-break: keep-all; font-weight: 500;}
 
@@ -1992,7 +2012,7 @@ _mobile table devide 시 margin-top 제거
 .saving_bank .item img {height:20px;}
 
 @media all and (max-width:768px) {
-    .policy_popup_title {padding:20px 15px; border-radius:15px; margin-bottom:5px;}
+    .policy_popup_title {padding:20px 15px; border-radius:15px; margin-bottom:25px;}
     .policy_popup_title h3 {font-size:2.4rem;}
     .policy_popup_title p {font-size:1.5rem;}
 
@@ -2006,7 +2026,7 @@ _mobile table devide 시 margin-top 제거
 	.popup_content .saving_content .saving_info .saving_info_item + .saving_info_item{padding-top:15px;}
 }
 
-.saving_popup_title {padding:25px; margin-bottom:25px;border-radius:20px; text-align: center; background-color: #E2F1F1;}
+.saving_popup_title {padding:25px; margin-bottom:40px;border-radius:20px; text-align: center; background-color: #E2F1F1;}
 .saving_popup_title h3 {font-size: 3.2rem; font-weight: 500; color: #0A9593; letter-spacing: -0.02em;}
 
 .qna_items {display: flex; flex-direction: column; gap: 15px;}
@@ -2021,7 +2041,7 @@ _mobile table devide 시 margin-top 제거
 .qna_items .cnt_check.green {margin-top:5px;}
 .cnt_check.green > div{color: #0A9593; font-weight: 350; background-image: url("data:image/svg+xml,%3Csvg width='16' height='16' viewBox='0 0 16 16' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M3 8.19048L6.39803 12L13 4' stroke='%230A9593' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A"); background-repeat: no-repeat; background-position: left 5px; background-size: 14px;}
 @media all and (max-width:768px){
-	.saving_popup_title {padding:20px 15px; border-radius:15px; margin-bottom:15px;}
+	.saving_popup_title {padding:20px 15px; border-radius:15px; margin-bottom:35px;}
     .saving_popup_title h3 {font-size:2.4rem;}
 
     .qna_items {gap:10px;}

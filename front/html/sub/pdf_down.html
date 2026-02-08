@@ -1,0 +1,406 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+    <link rel="shortcut icon" href="../../assets/images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="../../assets/images/favicon.ico" type="image/x-icon">
+    <title>IMND복지포털사이트</title>
+    <link href="../../assets/css/normalize.css" rel="stylesheet"/>
+    <link href="../../assets/css/common.css" rel="stylesheet"/>
+    <link href="../../assets/css/layout.css" rel="stylesheet"/>
+    <link href="../../assets/css/user/sub.css" rel="stylesheet"/>
+    <link href="../../assets/css/swiper.min.css" rel="stylesheet"/>
+    <link href="../../assets/css/slick.css" rel="stylesheet"/>
+    <link href="../../assets/css/simplebar.css" rel="stylesheet"/>
+    <link href="../../assets/css/choices.css" rel="stylesheet"/>
+    <link href="../../assets/css/sub.css" rel="stylesheet"/>
+    <script src="../../assets/js/jquery-3.7.1.min.js"></script>
+    <script src="../../assets/js/jquery-ui.js"></script>
+    <script src="../../assets/js/swiper.min.js"></script>
+    <script src="../../assets/js/slick.min.js"></script>
+    <script src="../../assets/js/simplebar.min.js"></script>
+    <script src="../../assets/js/choices.min.js"></script>
+</head>
+<body>
+
+<div style="padding:20px;text-align: center;">
+    <button type="button" onclick="printPdf('pdf1');">장기간부 도약적금 가입자격확인서 다운로드</button>
+    <button type="button" onclick="printPdf('pdf2');">장기간부 도약적금 해지 확인서 다운로드</button>
+</div>
+
+<div class="pdf_preview_wrap" id="pdf1" style="padding:16px;background:#f3f3f3;display: ;">
+  <!-- pdf -->
+  <div class="pdf_page"
+     style="width:210mm;height:297mm;overflow:hidden;box-sizing:border-box;padding:12mm;background:#fff;color:#000;font-size:15px;line-height:1.35;margin:0 auto;">
+
+    <h2 style="margin:25px 0;text-align:center;font-size:30px;font-weight:800;color:#000;">
+      장기간부 도약적금 가입자격 확인서
+    </h2>
+
+    <p style="margin-bottom:10px;color:#000;">
+      ※[&nbsp;&nbsp;&nbsp;]에는 해당되는 곳에 ✓ 표를 합니다.
+    </p>
+
+    <table class="print_table1">
+      <tr>
+        <th style="text-align:left;width:509px">발급번호: <strong id="print_num"></strong></th>
+        <th style="border-right:0;">처리시간: 즉시</th>
+      </tr>
+    </table>
+
+    <table class="print_table2">
+      <tr>
+        <th style="width:120px;">확인 대상자</th>
+        <td>성 명: <strong id="print_name"></strong></td>
+        <td>생년월일: <strong id="print_birth"></strong></td>
+        <td>휴대폰번호: <strong id="print_phone"></strong></td>
+      </tr>
+    </table>
+
+    <table class="print_table3">
+      <tr>
+        <th rowspan="2" style="width:120px;">복무사항</th>
+        <td>군구분: <strong id="print_army"></strong></td>
+        <td>군번: <strong id="print_army_num"></strong></td>
+      </tr>
+      <tr>
+        <td>임관일: <strong id="print_date"></strong></td>
+        <td>장기복무 임명일: <strong id="print_date2"></strong></td>
+      </tr>
+    </table>
+
+    <table class="print_table4">
+      <tr>
+        <th rowspan="10" style="width:120px;">임관구분<br/>및<br/>발급기관</th>
+        <th>임관 구분</th>
+        <th>발급기관</th>
+      </tr>
+      <tr>
+        <td>[<strong id="print_check1">&nbsp;&nbsp;&nbsp;</strong>] 육군사관학교</td>
+        <td rowspan="9" style="text-align: center;">국방부</td>
+      </tr>
+      <tr>
+        <td>[<strong id="print_check2">&nbsp;&nbsp;&nbsp;</strong>] 해군사관학교</td>
+      </tr>
+      <tr>
+        <td>[<strong id="print_check3">&nbsp;&nbsp;&nbsp;</strong>] 공군사관학교</td>
+      </tr>
+      <tr>
+        <td>[<strong id="print_check4">&nbsp;&nbsp;&nbsp;</strong>] 육군3사관학교</td>
+      </tr>
+      <tr>
+        <td>[<strong id="print_check5">&nbsp;&nbsp;&nbsp;</strong>] 국군간호사관학교</td>
+      </tr>
+      <tr>
+        <td>[<strong id="print_check6">&nbsp;&nbsp;&nbsp;</strong>] 국방첨단과학기술사관학교</td>
+      </tr>
+      <tr>
+        <td>[<strong id="print_check7">&nbsp;&nbsp;&nbsp;</strong>] 공군항공과학고등학교</td>
+      </tr>
+      <tr>
+        <td>[<strong id="print_check8">&nbsp;&nbsp;&nbsp;</strong>] 군 복무 중 장기복무자로 선발된 장교</td>
+      </tr>
+      <tr>
+        <td>[<strong id="print_check9">&nbsp;&nbsp;&nbsp;</strong>] 군 복무 중 장기복무자로 선발된 부사관</td>
+      </tr>
+    </table>
+
+    <div style="margin:10px 0;border-top:2px solid #000;border-bottom:1px solid #000;padding:10px 0;">
+      <p style="margin:0;color:#000;">
+        위와 같이&nbsp;  ⌜군인사법 시행령⌟&nbsp;  제 60조의 33에 따른 장기간부 도약적금의 가입자격을 확인합니다.
+      </p>
+
+      <p style="text-align:right;margin-top:10px;color:#000;"><strong id="print_date3">년 월 일</strong></p>
+
+      <div style="display:flex;align-items:center;justify-content:center;gap:20px;margin:20px 0;font-size:20px;font-weight:700;color:#000;">
+        군 인 공 제 회 C&amp;C
+        <img src="../../assets/images/dummy/sign.png" alt=""
+             style="height:60px;width:auto;object-fit:contain;">
+      </div>
+    </div>
+
+    <div style="border-top:2px solid #000;border-bottom:1px solid #000;text-align:center;background-color:#ccc;padding:5px 10px 10px 10px;font-weight:800;color:#000;">
+      유 의 사 항
+    </div>
+
+    <div style="padding:5px 10px 10px 10px;border-bottom:2px solid #000;color:#000;">
+      1. 장기간부 도약적금 가입자격 확인서는 장기간부 도약적금 상품의 가입 외에 다른 용도로 사용될 수 없습니다.<br/>
+      2. 국방부(군인공제회C&amp;C) 외에 다른 기관이 발급한 확인서는 인정되지 않습니다.
+    </div>
+
+    <div style="padding:5px 10px 10px 10px;border-bottom:2px solid #000;color:#000;">
+      장기간부 도약적금 가입기간 : [<strong id="print_date4"></strong>]<br/>
+      ※ 장기간부 도약적금 <span style="text-decoration: underline;">가입기간 이후 가입이 제한</span>됩니다.<br/>
+      증명서 유효기간 : 발금일로부터 2개월 / 증명서 발급 관련 문의 : 1661-6100
+    </div>
+
+    <div style="text-align:right;margin-top:5px;font-size:13px;color:#111;">
+      제출은행 / 발급일시
+    </div>
+  </div>
+</div>
+
+
+
+<div class="pdf_preview_wrap" id="pdf2" style="padding:16px;background:#f3f3f3;display: ;">
+  <!-- pdf -->
+  <div class="pdf_page"
+     style="width:210mm;height:297mm;overflow:hidden;box-sizing:border-box;padding:12mm;background:#fff;color:#000;font-size:15px;line-height:1.35;margin:0 auto;">
+
+    <h2 style="margin:25px 0;text-align:center;font-size:30px;font-weight:800;color:#000;">
+      장기간부 도약적금 해지 확인서
+    </h2>
+
+    <p style="margin-bottom:10px;color:#000;">
+      ※[&nbsp;&nbsp;&nbsp;]에는 해당되는 곳에 ✓ 표를 합니다.
+    </p>
+
+    <table class="print_table1">
+      <tr>
+        <th style="text-align:left;width:509px">발급번호: <strong id="print2_num"></strong></th>
+        <th style="border-right:0;">처리시간: 즉시</th>
+      </tr> 
+    </table>
+
+    <table class="print_table2">
+      <tr>
+        <th style="width:120px;">확인 대상자</th>
+        <td>성 명: <strong id="print2_name"></strong></td>
+        <td>생년월일: <strong id="print2_birth"></strong></td>
+        <td>휴대폰번호: <strong id="print2_phone"></strong></td>
+      </tr>
+    </table>
+
+    <table class="print_table3">
+      <tr>
+        <th style="width:120px;">복무사항</th>
+        <td>군구분: <strong id="print2_army"></strong></td>
+        <td>군번: <strong id="print2_army_num"></strong></td>
+        <td>전역예정일: <strong id="print2_date"></strong></td>
+      </tr>
+    </table>
+
+    <table class="print_table3">
+      <tr>
+        <th style="width:120px;">가입사항</th>
+        <td>가입은행: <strong id="print2_bank"></strong></td>
+        <td>계좌번호: <strong id="print2_account"></strong></td>
+        <td>적금만기일: <strong id="print2_date2"></strong></td>
+      </tr>
+    </table>
+
+    <table class="print_table4">
+      <tr>
+        <th rowspan="10" style="width:120px;">임관구분<br/>및<br/>발급기관</th>
+        <th>임관 구분</th>
+        <th>발급기관</th>
+      </tr>
+      <tr>
+        <td>[<strong id="print_check1">&nbsp;&nbsp;&nbsp;</strong>] 육군사관학교</td>
+        <td rowspan="9" style="text-align: center;">국방부</td>
+      </tr>
+      <tr>
+        <td>[<strong id="print2_check2">&nbsp;&nbsp;&nbsp;</strong>] 해군사관학교</td>
+      </tr>
+      <tr>
+        <td>[<strong id="print2_check3">&nbsp;&nbsp;&nbsp;</strong>] 공군사관학교</td>
+      </tr>
+      <tr>
+        <td>[<strong id="print2_check4">&nbsp;&nbsp;&nbsp;</strong>] 육군3사관학교</td>
+      </tr>
+      <tr>
+        <td>[<strong id="print2_check5">&nbsp;&nbsp;&nbsp;</strong>] 국군간호사관학교</td>
+      </tr>
+      <tr>
+        <td>[<strong id="print2_check6">&nbsp;&nbsp;&nbsp;</strong>] 국방첨단과학기술사관학교</td>
+      </tr>
+      <tr>
+        <td>[<strong id="print2_check7">&nbsp;&nbsp;&nbsp;</strong>] 공군항공과학고등학교</td>
+      </tr>
+      <tr>
+        <td>[<strong id="print2_check8">&nbsp;&nbsp;&nbsp;</strong>] 군 복무 중 장기복무자로 선발된 장교</td>
+      </tr>
+      <tr>
+        <td>[<strong id="print2_check9">&nbsp;&nbsp;&nbsp;</strong>] 군 복무 중 장기복무자로 선발된 부사관</td>
+      </tr>
+    </table>
+
+    <div style="margin:10px 0;border-top:2px solid #000;border-bottom:1px solid #000;padding:10px 0;">
+      <p style="margin:0;color:#000;">
+        위와 같이&nbsp;  ⌜군인사법 시행령⌟&nbsp; 제 60조의 33에 따른 장기간부 도약적금의 해지자격을 확인합니다.
+      </p>
+
+      <p style="text-align:right;margin-top:30px;color:#000;"><strong id="print2_date4">년 월 일</strong></p>
+
+      <div style="display:flex;align-items:center;justify-content:center;gap:20px;margin:20px 0;font-size:20px;font-weight:700;color:#000;">
+        군 인 공 제 회 C&amp;C
+        <img src="../../assets/images/dummy/sign.png" alt=""
+             style="height:60px;width:auto;object-fit:contain;">
+      </div>
+    </div>
+
+    <div style="border-top:2px solid #000;border-bottom:1px solid #000;text-align:center;background-color:#ccc;padding:5px 10px 10px 10px;font-weight:800;color:#000;">
+      유 의 사 항
+    </div>
+
+    <div style="padding:5px 10px 10px 10px;border-bottom:2px solid #000;color:#000;">
+      1. 장기간부 도약적금 해지확인서는 장기간부 도약적금 상품의 해지 외에 다른 용도로 사용될 수 없습니다.<br/>
+      2. 국방부(군인공제회C&amp;C) 외에 다른 기관이 발급한 확인서는 인정되지 않습니다.
+    </div>
+
+    <div style="padding:5px 10px 10px 10px;border-bottom:2px solid #000;color:#000;">
+      증명서 유효기간 : 발급일로부터 2개월<br/>
+      증명서 발급 관련 문의 : 1661-6100
+    </div>
+
+    <div style="text-align:right;margin-top:5px;font-size:13px;color:#111;">
+      제출은행 /  발급일시
+    </div>
+  </div>
+</div>
+
+<style>
+  .print_table1{ width:100%; border-collapse:collapse; border:1px solid #000; border-left:0; border-right:0; background-color:#ccc; font-size:15px;}
+  .print_table1 th{ padding:5px 10px 10px 10px; font-weight:bold; border-right:1px solid #000; color:#000;}
+  .print_table2{ width:100%; border-collapse:collapse; border:1px solid #000; border-left:0; border-right:0; margin:10px 0; font-size:15px;}
+  .print_table2 th{ padding:5px 10px 10px 10px ; font-weight:bold; color:#000;}
+  .print_table2 td{ padding:5px 10px 10px 10px; border-left:1px solid #000; color:#000;}
+  .print_table3, .print_table4{ width:100%; border-collapse:collapse; border:1px solid #000; border-left:0; border-right:0; margin:10px 0; font-size:15px; color:#000; }
+  .print_table3 th, .print_table3 td, .print_table4 th, .print_table4 td{ border-bottom:1px solid #000; padding:5px 10px 10px 10px; vertical-align:middle; color:#000; }
+  .print_table3 th + th, .print_table4 th + th{ border-left:1px solid #000; }
+  .print_table3 td, .print_table4 td{ border-left:1px solid #000; }
+  .pdf_preview_wrap table, .pdf_preview_wrap tr, .pdf_preview_wrap td, .pdf_preview_wrap th { page-break-inside: avoid; }
+  @page { size: A4; margin: 0; }
+  @media print{
+    .pdf_preview_wrap{ background:#fff !important; padding:0 !important; }
+    .pdf_page{ box-shadow:none !important; margin:0 !important; overflow:hidden; }
+  }
+</style>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+<script>
+    const sampleData1 = {
+        print_num: "2026-000123",
+        print_name: "김ㅇㅇ",
+        print_birth: "1980.01.01",
+        print_phone: "010-0000-0000",
+        print_army: "육군",
+        print_army_num: "00-00001234",
+        print_date: "2025.01.01",
+        print_date2: "2025.06.01",
+        print_date3: "2026년 01월 24일",
+        print_date4: "2026.03.01.~2026.03.12./ 2026.04.01.~2026.04.12.",
+        checks: { 1:true, 2:false, 3:false, 4:false, 5:false, 6:false, 7:false, 8:false, 9:false }
+    };
+
+    const sampleData2 = {
+        print2_num: "2026-900777",
+        print2_name: "이ㅇㅇ",
+        print2_birth: "1990.02.02",
+        print2_phone: "010-1111-2222",
+        print2_army: "해군",
+        print2_army_num: "11-00009999",
+        print2_date: "2024.12.01",
+        print2_bank: "국민은행",
+        print2_account: "123-45-678901",
+        print2_date2: "2025.05.01",
+        print2_date4: "2026년 01월 24일",
+        checks: { 1:false, 2:true, 3:false, 4:false, 5:false, 6:false, 7:false, 8:false, 9:false }
+    };
+
+    const PDF_DEFAULT = {
+        pdf1: { data: sampleData1, filename: "가입자격_확인서.pdf" },
+        pdf2: { data: sampleData2, filename: "해지_확인서.pdf" },
+    };
+
+  function fillPdfData(containerId, data){
+  const root = document.getElementById(containerId);
+  if(!root) return;
+
+  Object.keys(data).forEach(id => {
+    if(id === "checks") return;
+    const el = root.querySelector("#" + id);
+    if(el) el.textContent = data[id] ?? "";
+  });
+
+  if(data.checks){
+    for(let i=1;i<=7;i++){
+      const el = root.querySelector("#print_check" + i);
+      if(el) el.textContent = data.checks[i] ? "✓" : "\u00A0\u00A0\u00A0";
+    }
+  }
+}
+
+async function printPdf(containerId, data, filename){
+  const def = PDF_DEFAULT[containerId] || {};
+  const usedData = data ?? def.data ?? {};
+  const usedFilename = filename ?? def.filename ?? "document.pdf";
+
+  fillPdfData(containerId, usedData);
+
+  if (document.fonts && document.fonts.ready) {
+    try { await document.fonts.ready; } catch(e) {}
+  }
+
+  const el = document.querySelector("#"+containerId + " .pdf_page");
+  await waitImagesLoaded(el);
+
+  const prevX = window.scrollX;
+  const prevY = window.scrollY;
+  window.scrollTo(0, 0);
+  await new Promise(r => requestAnimationFrame(r));
+
+  const opt = {
+    margin: 0,
+    filename: usedFilename,
+    image: { type: "jpeg", quality: 0.98 },
+    html2canvas: {
+      scale: 2,
+      useCORS: true,
+      allowTaint: true,
+      backgroundColor: "#ffffff",
+      scrollX: 0,
+      scrollY: 0,
+      onclone: (doc) => {
+        doc.documentElement.scrollTop = 0;
+        doc.body.scrollTop = 0;
+      }
+    },
+    jsPDF: { unit: "mm", format: "a4", orientation: "portrait" },
+    pagebreak: { mode: ["css", "legacy"] }
+  };
+
+  try {
+    const worker = html2pdf().set(opt).from(el).toPdf();
+    await worker.get("pdf").then(pdf => {
+      while (pdf.internal.getNumberOfPages() > 1) {
+        pdf.deletePage(pdf.internal.getNumberOfPages());
+      }
+    });
+
+    await worker.save();
+  } finally {
+    window.scrollTo(prevX, prevY);
+  }
+}
+
+
+  function waitImagesLoaded(root){
+    if(!root) return Promise.resolve();
+    const imgs = Array.from(root.querySelectorAll("img"));
+    const ps = imgs.map(img => new Promise(res=>{
+      if(img.complete && img.naturalWidth > 0) return res();
+      img.onload = () => res();
+      img.onerror = () => res();
+    }));
+    return Promise.all(ps);
+  }
+</script>
+
+
+<script src="../../assets/js/common.js"></script>
+</body>
+</html>
