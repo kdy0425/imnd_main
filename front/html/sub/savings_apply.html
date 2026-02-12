@@ -648,11 +648,11 @@
                                 </colgroup>
                                     <tbody>
                                         <tr>
-                                            <th><span>성명</span></th>
+                                            <th>성명</th>
                                             <td>
                                                 <input type="text" value="김아무개" style="max-width:250px;">
                                             </td>
-                                            <th><span>소속(원소속기준)</span></th>
+                                            <th>소속(원소속기준)</th>
                                             <td>
                                                <select name="" id="" style="max-width:250px;">
                                                     <option value="">육군</option>
@@ -660,28 +660,28 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <th><span>군번</span></th>
+                                            <th>군번</th>
                                             <td>
                                                 <input type="text" value="00-00001234" style="max-width:250px;">
                                             </td>
-                                            <th><span>생년월일</span></th>
+                                            <th>생년월일</th>
                                             <td>
                                                 <input type="text" name="" style="max-width:250px;">
                                             </td>
                                         </tr>
                                         <tr>
-                                            <th><span>성별</span></th>
+                                            <th>성별</th>
                                             <td>
                                                 <label class="checkbox_new checkbox_inline"><input type="radio" name="gender">남자</label>
                                                 <label class="checkbox_new checkbox_inline"><input type="radio" name="gender">여자</label>
                                             </td>
-                                            <th><span>장기복무 임명일</span></th>
+                                            <th>장기복무 임명일</th>
                                             <td>
                                                 <input type="text" name="" style="max-width:250px;">
                                             </td>
                                         </tr>
                                         <tr>
-                                            <th><span>핸드폰 번호</span></th>
+                                            <th>핸드폰 번호</th>
                                             <td colspan="3">
                                                 <input type="text" name="" value="01012341234" style="max-width:250px;">
                                             </td>
@@ -710,6 +710,7 @@
                             <button type="button" class="line">취소</button>
                         </div>
 
+                        <button type="button" onclick="openPopup('savings_apply')">장기간부 도약적금 자격확인 신청</button>
                     </div>
                 </div>
             </div>
@@ -740,6 +741,93 @@
     <!-- //footer -->
 </div>
 
+
+
+
+<!-- 장기간부 도약적금 자격확인 신청 -->
+<div class="popup_layer" id="savings_apply">
+    <div class="popup_box" style="max-width:1000px;">
+        <div class="popup_title">
+            <h3>장기간부 도약적금 자격확인 신청</h3>
+            <button type="button" class="close" onclick="closePopup('savings_apply')">닫기</button>
+        </div>
+        <div class="popup_content">
+            <h4 class="title_mypage">신청 정보 입력</h4>
+            <div class="tb_wrap">
+                <table class="tb_response">
+                    <colgroup>
+                        <col style="width:20%;">
+                        <col style="width:30%;">
+                        <col style="width:20%;">
+                        <col style="width:30%;">
+                    </colgroup>
+                        <tbody>
+                            <tr>
+                                <th>성명</th>
+                                <td>
+                                    <input type="text" value="김아무개" style="max-width:250px;">
+                                </td>
+                                <th>소속(원소속기준)</th>
+                                <td>
+                                    <select name="" id="" style="max-width:250px;">
+                                        <option value="">육군</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>군번</th>
+                                <td>
+                                    <input type="text" value="00-00001234" style="max-width:250px;">
+                                </td>
+                                <th>생년월일</th>
+                                <td>
+                                    <input type="text" name="" style="max-width:250px;">
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>성별</th>
+                                <td>
+                                    <label class="checkbox_new checkbox_inline"><input type="radio" name="gender">남자</label>
+                                    <label class="checkbox_new checkbox_inline"><input type="radio" name="gender">여자</label>
+                                </td>
+                                <th>장기복무 임명일</th>
+                                <td>
+                                    <input type="text" name="" style="max-width:250px;">
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>핸드폰 번호</th>
+                                <td colspan="3">
+                                    <input type="text" name="" value="01012341234" style="max-width:250px;">
+                                </td>
+                            </tr>
+                </tbody></table>
+            </div>
+
+            <div class="new_terms">
+                <div class="terms_item">
+                    <div class="terms_label">
+                        <label>
+                            <input type="checkbox" id="terms_info">
+                            <span>장기복무 임명일 신청 결과를 제공한 핸드폰 번호로 알림톡 발송에 동의합니다.</span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="text_bg_box">
+                <div class="title">※ 가입자격 확인 신청 시, 결과 확인은 15분 간 소요</div>
+                <p>입력 항목이 틀릴 경우 신청이 이루어 지지 않을 수 있습니다.<br/>자격 여부 결과를 받은 후 재신청이 가능합니다.</p>
+            </div>
+
+            <div class="form_btns">
+                <button type="button" class="submit">신청</button>
+                <button type="button" class="line" onclick="closePopup('savings_apply')">취소</button>
+            </div>
+        </div>
+    </div>
+</div>
+ 
 
 
 <script src="../../assets/js/common.js"></script>
